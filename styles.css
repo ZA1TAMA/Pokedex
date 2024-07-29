@@ -1,0 +1,224 @@
+:root {
+	--type1: rgb(114, 56, 253);
+	--type2: rgb(114, 56, 253);
+}
+
+html {
+	font-family: "Poppins", sans-serif;
+}
+
+body {
+	background-color: #14181b;
+	color: white;
+	margin: 0;
+}
+
+main {
+	text-align: center;
+}
+
+h1 {
+	font-weight: 500;
+	font-size: 50px;
+	margin: 0;
+}
+
+h3 {
+	font-weight: 300;
+	margin: 0;
+}
+
+.pkmnDisplay {
+	width: 100%;
+	height: 50vh;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.pkmnImgContainer {
+	position: absolute;
+	width: 100%;
+	height: 50vh;
+	z-index: 2;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.pkmnImgContainer img {
+	width: 35vh;
+	filter: drop-shadow(2px 2px 4px #000);
+}
+
+.nameJP {
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+	font-family: "Noto Sans JP", sans-serif;
+	width: 25%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.nameJP h1 {
+	font-size: 15vw;
+	font-weight: 600;
+}
+@media only screen and (min-width: 422px) {
+	.nameJP h1 {
+	font-size: 60px;	
+	}
+}
+
+.rightBlock {
+	height: 100%;
+	float: right;
+	flex-grow: 1;
+}
+
+#typeColor {
+	background-color: var(--type1);
+	height: 70%;
+	border-radius: 30px 0 0 30px;
+}
+
+.pkmnName {
+	position: absolute;
+	width: 100%;
+	top: 42%;
+}
+
+.pkmnName h1 {
+	font-size: 3.5vh;
+}
+
+.pkmnName h3 {
+	margin-top: -5px;
+	font-size: 1.5vh;
+}
+
+.dexNum {
+	margin-right: 10%;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	height: 15%;
+}
+
+.dexNum h1 {
+	font-weight: 400;
+	font-size: 6vh;
+}
+
+.pkmnData {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.typeBox {
+	display: flex;
+	width: 50%;
+	min-width: 150px;
+	max-width: 200px;
+	justify-content: space-around;
+	gap: 20px;
+}
+
+.typeBox div {
+	font-size: 12px;
+	border-radius: 10px;
+	width: 40%;
+	max-width: 70px;
+}
+
+.typeBox p {
+	margin: 2px 0;
+}
+
+#type1Block {
+	background-color: var(--type1);
+}
+
+#type2Block {
+	background-color: var(--type2);
+	display: none;
+}
+
+.height-weight {
+	width: 30%;
+	min-width: 150px;
+	max-width: 200px;
+	display: flex;
+	justify-content: center;
+	font-size: 12px;
+}
+
+.height-weight p {
+	width: 30%;
+}
+
+.stats {
+	display: flex;
+	width: 100%;
+}
+
+.stats p {
+	margin: 0;
+}
+
+.statName {
+	text-align: right;
+	width: 20%;
+}
+
+.statNum {
+	width: 15%;
+}
+
+.statGraph {
+	width: 65%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.statGraph div {
+	height: 10px;
+	border-radius: 3px;
+	background-color: green;
+	transition: .3s width ease;
+}
+
+#hpBar {
+	width: 76px;
+}
+
+#atkBar {
+	width: 147px;
+}
+
+#defBar {
+	width: 90px;
+}
+
+#spAtkBar {
+	width: 60px;
+}
+
+#spDefBar {
+	width: 70px;
+}
+
+#spdBar {
+	width: 97px;
+}
+
+#ttlBar {
+	visibility: hidden;
+}
+#name {
+	font-family: "Poppins", sans-serif;
+	border-color: transparent;
+	border-radius: 5px;
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pokédex</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="styles.css" rel="stylesheet">
+    <link href="assets/sceptilite.png" type="image/x-icon" rel="icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  </head>
+  <body onload="getData()" onload="">
+    <main>
+      <div class="pkmnDisplay">
+        <div class="pkmnImgContainer">
+          <img id="pkmnImg" src="assets/images/0612 Haxorus.png" alt="pkmn">
+        </div>
+        <div class="nameJP">
+          <h1 id="jpName">オノノクス</h1>
+        </div>
+        <div class="pkmnName">
+          <h1 id="pkmnName">Haxorus</h1>
+          <h3 id="category">Axe Jaw Pokémon</h3>
+        </div>
+        <div class="rightBlock">
+          <div class="dexNum">
+            <h1 id="natDex">612</h1>
+          </div>
+          <div id="typeColor">
+          </div>
+        </div>
+      </div>
+      <div class="pkmnData">
+        <div class="typeBox">
+          <div id="type1Block"><p id="type1">Dragon</p></div>
+          <div id="type2Block"><p id="type2">Flying</p></div>  
+        </div>
+        <div class="height-weight">
+            <p id="height">1.8m</p>
+            <p>|</p>
+            <p id="mass">105.5kg</p>
+        </div>
+        <div class="stats">
+            <div class="statName">
+                <p>HP</p>
+                <p>Attack</p>
+                <p>Defense</p>
+                <p>Sp. Atk</p>
+                <p>Sp. Def</p>
+                <p>Speed</p>
+                <p>Total</p>
+            </div>
+                
+            <div class="statNum">
+                <p id="hp">76</p>
+                <p id="atk">147</p>
+                <p id="def">90</p>
+                <p id="spAtk">60</p>
+                <p id="spDef">70</p>
+                <p id="spd">97</p>
+                <p id="total">540</p>
+            </div>
+            <div class="statGraph">
+                <div id="hpBar"></div>
+                <div id="atkBar"></div>
+                <div id="defBar"></div>
+                <div id="spAtkBar"></div>
+                <div id="spDefBar"></div>
+                <div id="spdBar"></div>
+                <div id="ttlBar"></div>  
+            </div>
+            
+        </div>
+      </div>
+      <select id="name"></select>
+    </main>
+    <script type="text/javascript" src="index.js"></script>
+    <script type="application/json" src="data.json"></script>
+  </body>
+</html>
