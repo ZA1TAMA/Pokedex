@@ -80,6 +80,12 @@ h3 {
 	background-color: var(--type1);
 	height: 70%;
 	border-radius: 30px 0 0 30px;
+	transition: 0.3s background-color ease;
+}
+#typeSymbol {
+	height: 100%;
+	float: right;
+	opacity: 50%;
 }
 
 .pkmnName {
@@ -152,12 +158,31 @@ h3 {
 	display: flex;
 	justify-content: center;
 	font-size: 12px;
+	margin: 10px;
 }
 
 .height-weight p {
 	width: 30%;
+	margin: 0
 }
 
+.abilities {
+	width: 70%;
+	display: flex;
+	justify-content: center;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.ability {
+	margin: 0 10px;
+}
+.abilityDivider {
+	margin: 0;
+	width: 10px;
+}
+#abilityH {
+	color: #ffd478;
+}
 .stats {
 	display: flex;
 	width: 100%;
@@ -187,7 +212,7 @@ h3 {
 	height: 10px;
 	border-radius: 3px;
 	background-color: green;
-	transition: .3s width ease;
+	transition: 0.3s width ease, 0.5s background-color ease;
 }
 
 #hpBar {
