@@ -34,6 +34,8 @@ select.addEventListener("change", function() {
     document.getElementById("pkmnImg").src = "assets/images/0" + pkmnData.PKMN[select.value].nationalDex + " " + pkmnData.PKMN[select.value].name + ".png";
     document.getElementById("height").innerHTML = pkmnData.PKMN[select.value].height + "m";
     document.getElementById("mass").innerHTML = pkmnData.PKMN[select.value].mass + "kg";
+    document.getElementById("ability1").innerHTML = pkmnData.PKMN[select.value].ability[0];
+    document.getElementById("ability2").innerHTML = pkmnData.PKMN[select.value].ability[1];
     document.getElementById("typeSymbol").src = "assets/types/" + pkmnData.PKMN[select.value].type[0] + ".png"
 
     document.getElementById("hp").innerHTML = pkmnData.PKMN[select.value].stats[0];
@@ -59,7 +61,13 @@ select.addEventListener("change", function() {
     } else {
         type2Block.style.display = "inline";
     }
-
+    if (pkmnData.PKMN[select.value].ability[1] == undefined) {
+        document.getElementById("ability2").style.display = "none";
+        document.getElementById("abilityDiv1").style.display = "none";
+    } else {
+        type2Block.style.display = "inline";
+    }
+    
     switch (pkmnData.PKMN[select.value].type[0]) {
         case "Normal":
             document.documentElement.style.setProperty("--type1", "rgb(168, 168, 120)");
