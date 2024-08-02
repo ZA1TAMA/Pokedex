@@ -192,12 +192,110 @@ select.addEventListener("change", function() {
     }
 
     switch (true) {
-        case pkmnData.PKMN[select.value].stats[0] < 50:
+        case pkmnData.PKMN[select.value].stats[0] <= 30:
             document.getElementById("hpBar").style.backgroundColor = "rgb(160, 28, 4)";
             break;
-
+        case pkmnData.PKMN[select.value].stats[0] > 30, pkmnData.PKMN[select.value].stats[0] <= 70:
+            document.getElementById("hpBar").style.backgroundColor = "rgb(182, 197, 67)";
+            break;
+        case pkmnData.PKMN[select.value].stats[0] <70, pkmnData.PKMN[select.value].stats[0] <= 120:
+            document.getElementById("hpBar").style.backgroundColor = "rgb(60, 100, 40)";
+            break;
         case pkmnData.PKMN[select.value].stats[0] > 120:
-            document.getElementById("hpBar").style.backgroundColor = "rgb(4, 85, 126)";
+            document.getElementById("hpBar").style.backgroundColor = "rgb(50, 108, 164)";
+            break;
+    }
+    switch (true) {
+        case pkmnData.PKMN[select.value].stats[1] <= 30:
+            document.getElementById("atkBar").style.backgroundColor = "rgb(160, 28, 4)";
+            break;
+        case pkmnData.PKMN[select.value].stats[1] > 30, pkmnData.PKMN[select.value].stats[1] <= 70:
+            document.getElementById("atkBar").style.backgroundColor = "rgb(182, 197, 67)";
+            break;
+        case pkmnData.PKMN[select.value].stats[1] <70, pkmnData.PKMN[select.value].stats[1] <= 120:
+            document.getElementById("atkBar").style.backgroundColor = "rgb(60, 100, 40)";
+            break;
+        case pkmnData.PKMN[select.value].stats[1] > 120:
+            document.getElementById("atkBar").style.backgroundColor = "rgb(50, 108, 164)";
+            break;
+    }
+    switch (true) {
+        case pkmnData.PKMN[select.value].stats[2] <= 30:
+            document.getElementById("defBar").style.backgroundColor = "rgb(160, 28, 4)";
+            break;
+        case pkmnData.PKMN[select.value].stats[2] > 30, pkmnData.PKMN[select.value].stats[2] <= 70:
+            document.getElementById("defBar").style.backgroundColor = "rgb(182, 197, 67)";
+            break;
+        case pkmnData.PKMN[select.value].stats[2] <70, pkmnData.PKMN[select.value].stats[2] <= 120:
+            document.getElementById("defBar").style.backgroundColor = "rgb(60, 100, 40)";
+            break;
+        case pkmnData.PKMN[select.value].stats[2] > 120:
+            document.getElementById("defBar").style.backgroundColor = "rgb(50, 108, 164)";
+            break;
+    }
+    switch (true) {
+        case pkmnData.PKMN[select.value].stats[3] <= 30:
+            document.getElementById("spAtkBar").style.backgroundColor = "rgb(160, 28, 4)";
+            break;
+        case pkmnData.PKMN[select.value].stats[3] > 30, pkmnData.PKMN[select.value].stats[3] <= 70:
+            document.getElementById("spAtkBar").style.backgroundColor = "rgb(182, 197, 67)";
+            break;
+        case pkmnData.PKMN[select.value].stats[3] <70, pkmnData.PKMN[select.value].stats[3] <= 120:
+            document.getElementById("spAtkBar").style.backgroundColor = "rgb(60, 100, 40)";
+            break;
+        case pkmnData.PKMN[select.value].stats[3] > 120:
+            document.getElementById("spAtkBar").style.backgroundColor = "rgb(50, 108, 164)";
+            break;
+    }
+    switch (true) {
+        case pkmnData.PKMN[select.value].stats[4] <= 30:
+            document.getElementById("spDefBar").style.backgroundColor = "rgb(160, 28, 4)";
+            break;
+        case pkmnData.PKMN[select.value].stats[4] > 30, pkmnData.PKMN[select.value].stats[4] <= 70:
+            document.getElementById("spDefBar").style.backgroundColor = "rgb(182, 197, 67)";
+            break;
+        case pkmnData.PKMN[select.value].stats[4] <70, pkmnData.PKMN[select.value].stats[4] <= 120:
+            document.getElementById("spDefBar").style.backgroundColor = "rgb(60, 100, 40)";
+            break;
+        case pkmnData.PKMN[select.value].stats[4] > 120:
+            document.getElementById("spDefBar").style.backgroundColor = "rgb(50, 108, 164)";
+            break;
+    }
+    switch (true) {
+        case pkmnData.PKMN[select.value].stats[5] <= 30:
+            document.getElementById("spdBar").style.backgroundColor = "rgb(160, 28, 4)";
+            break;
+        case pkmnData.PKMN[select.value].stats[5] > 30, pkmnData.PKMN[select.value].stats[5] <= 70:
+            document.getElementById("spdBar").style.backgroundColor = "rgb(182, 197, 67)";
+            break;
+        case pkmnData.PKMN[select.value].stats[5] <70, pkmnData.PKMN[select.value].stats[5] <= 120:
+            document.getElementById("spdBar").style.backgroundColor = "rgb(60, 100, 40)";
+            break;
+        case pkmnData.PKMN[select.value].stats[5] > 120:
+            document.getElementById("spdBar").style.backgroundColor = "rgb(50, 108, 164)";
             break;
     }
 })
+
+
+
+
+// selectors
+const themeToggleBtn = document.querySelector('.themeToggle');
+// state
+const theme = localStorage.getItem('theme');
+
+// on mount
+theme && document.body.classList.add(theme);
+
+// handlers
+handleThemeToggle =() => {
+    document.body.classList.toggle('dark-mode');
+    if (document.body.classList.contains('dark-mode')) {
+        localStorage.setItem('theme', 'dark-mode');
+    } else {
+        localStorage.removeItem('theme');
+    }
+};
+// events
+themeToggleBtn.addEventListener('click', handleThemeToggle);
