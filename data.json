@@ -11,6 +11,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Chlorophyll",
       "category": "Seed Pokémon",
       "height": 0.7,
       "mass": 6.9,
@@ -34,6 +35,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Chlorophyll",
       "category": "Seed Pokémon",
       "height": 1,
       "mass": 13,
@@ -57,6 +59,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Chlorophyll",
       "category": "Seed Pokémon",
       "height": 2,
       "mass": 100,
@@ -79,6 +82,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Solar Power",
       "category": "Lizard Pokémon",
       "height": 0.6,
       "mass": 8.5,
@@ -101,6 +105,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Solar Power",
       "category": "Lizard Pokémon",
       "height": 1.1,
       "mass": 19,
@@ -124,6 +129,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Solar Power",
       "category": "Lizard Pokémon",
       "height": 1.7,
       "mass": 90.5,
@@ -146,6 +152,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Rain Dish",
       "category": "Tiny Turtle Pokémon",
       "height": 0.5,
       "mass": 9,
@@ -168,6 +175,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Rain Dish",
       "category": "Turtle Pokémon",
       "height": 1,
       "mass": 22.5,
@@ -190,6 +198,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Rain Dish",
       "category": "Shellfish Pokémon",
       "height": 1.6,
       "mass": 85.5,
@@ -212,6 +221,7 @@
       "ability": [
         "Shield Dust"
       ],
+      "hiddenAbility": "Run Away",
       "category": "Worm Pokémon",
       "height": 0.3,
       "mass": 2.9,
@@ -234,6 +244,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": null,
       "category": "Cocoon Pokémon",
       "height": 0.7,
       "mass": 9.9,
@@ -257,6 +268,7 @@
       "ability": [
         "Compound Eyes"
       ],
+      "hiddenAbility": "Tinted Lens",
       "category": "Butterfly Pokémon",
       "height": 1.1,
       "mass": 32,
@@ -280,6 +292,7 @@
       "ability": [
         "Shield Dust"
       ],
+      "hiddenAbility": "Run Away",
       "category": "Hairy Bug Pokémon",
       "height": 0.3,
       "mass": 3.2,
@@ -303,6 +316,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": null,
       "category": "Cocoon Pokémon",
       "height": 0.6,
       "mass": 10,
@@ -326,6 +340,7 @@
       "ability": [
         "Swarm"
       ],
+      "hiddenAbility": "Sniper",
       "category": "Poison Bee Pokémon",
       "height": 1,
       "mass": 29.5,
@@ -350,6 +365,7 @@
         "Keen Eye",
         "Tangled Feet"
       ],
+      "hiddenAbility": "Big Pecks",
       "category": "Tiny Bird Pokémon",
       "height": 0.3,
       "mass": 1.8,
@@ -374,6 +390,7 @@
         "Keen Eye",
         "Tangled Feet"
       ],
+      "hiddenAbility": "Big Pecks",
       "category": "Bird Pokémon",
       "height": 1.1,
       "mass": 30,
@@ -398,6 +415,7 @@
         "Keen Eye",
         "Tangled Feet"
       ],
+      "hiddenAbility": "Big Pecks",
       "category": "Bird Pokémon",
       "height": 1.5,
       "mass": 39.5,
@@ -421,6 +439,7 @@
         "Run Away",
         "Guts"
       ],
+      "hiddenAbility": "Hustle",
       "category": "Mouse Pokémon",
       "height": 0.3,
       "mass": 3.5,
@@ -444,6 +463,7 @@
         "Run Away",
         "Guts"
       ],
+      "hiddenAbility": "Hustle",
       "category": "Mouse Pokémon",
       "height": 0.7,
       "mass": 18.5,
@@ -467,6 +487,7 @@
       "ability": [
         "Keen Eye"
       ],
+      "hiddenAbility": "Sniper",
       "category": "Tiny Bird Pokémon",
       "height": 0.3,
       "mass": 2,
@@ -490,6 +511,7 @@
       "ability": [
         "Keen Eye"
       ],
+      "hiddenAbility": "Sniper",
       "category": "Beak Pokémon",
       "height": 1.2,
       "mass": 38,
@@ -513,6 +535,7 @@
         "Intimidate",
         "Shed Skin"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Snake Pokémon",
       "height": 2,
       "mass": 6.9,
@@ -536,6 +559,7 @@
         "Intimidate",
         "Shed Skin"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Cobra Pokémon",
       "height": 3.5,
       "mass": 65,
@@ -558,6 +582,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Lightning Rod",
       "category": "Mouse Pokémon",
       "height": 0.4,
       "mass": 6,
@@ -580,6 +605,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Lightning Rod",
       "category": "Mouse Pokémon",
       "height": 0.8,
       "mass": 30,
@@ -602,6 +628,7 @@
       "ability": [
         "Sand Veil"
       ],
+      "hiddenAbility": "Sand Rush",
       "category": "Mouse Pokémon",
       "height": 0.6,
       "mass": 12,
@@ -624,6 +651,7 @@
       "ability": [
         "Sand Veil"
       ],
+      "hiddenAbility": "Sand Rush",
       "category": "Mouse Pokémon",
       "height": 1,
       "mass": 29.5,
@@ -647,6 +675,7 @@
         "Poison Point",
         "Rivalry"
       ],
+      "hiddenAbility": "Hustle",
       "category": "Poison Pin Pokémon",
       "height": 0.4,
       "mass": 7,
@@ -670,6 +699,7 @@
         "Poison Point",
         "Rivalry"
       ],
+      "hiddenAbility": "Hustle",
       "category": "Poison Pin Pokémon",
       "height": 0.8,
       "mass": 20,
@@ -694,6 +724,7 @@
         "Poison Point",
         "Rivalry"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Drill Pokémon",
       "height": 1.3,
       "mass": 60,
@@ -717,6 +748,7 @@
         "Poison Point",
         "Rivalry"
       ],
+      "hiddenAbility": "Hustle",
       "category": "Poison Pin Pokémon",
       "height": 0.5,
       "mass": 9,
@@ -740,6 +772,7 @@
         "Poison Point",
         "Rivalry"
       ],
+      "hiddenAbility": "Hustle",
       "category": "Poison Pin Pokémon",
       "height": 0.9,
       "mass": 19.5,
@@ -764,6 +797,7 @@
         "Poison Point",
         "Rivalry"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Drill Pokémon",
       "height": 1.4,
       "mass": 62,
@@ -787,6 +821,7 @@
         "Cute Charm",
         "Magic Guard"
       ],
+      "hiddenAbility": "Friend Guard",
       "category": "Fairy Pokémon",
       "height": 0.6,
       "mass": 7.5,
@@ -810,6 +845,7 @@
         "Cute Charm",
         "Magic Guard"
       ],
+      "hiddenAbility": "Unaware",
       "category": "Fairy Pokémon",
       "height": 1.3,
       "mass": 40,
@@ -832,6 +868,7 @@
       "ability": [
         "Flash Fire"
       ],
+      "hiddenAbility": "Drought",
       "category": "Fox Pokémon",
       "height": 0.6,
       "mass": 9.9,
@@ -854,6 +891,7 @@
       "ability": [
         "Flash Fire"
       ],
+      "hiddenAbility": "Drought",
       "category": "Fox Pokémon",
       "height": 1.1,
       "mass": 19.9,
@@ -878,6 +916,7 @@
         "Cute Charm",
         "Competitive"
       ],
+      "hiddenAbility": "Friend Guard",
       "category": "Balloon Pokémon",
       "height": 0.5,
       "mass": 5.5,
@@ -902,6 +941,7 @@
         "Cute Charm",
         "Competitive"
       ],
+      "hiddenAbility": "Frisk",
       "category": "Balloon Pokémon",
       "height": 1,
       "mass": 12,
@@ -925,6 +965,7 @@
       "ability": [
         "Inner Focus"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Bat Pokémon",
       "height": 0.8,
       "mass": 7.5,
@@ -948,6 +989,7 @@
       "ability": [
         "Inner Focus"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Bat Pokémon",
       "height": 1.6,
       "mass": 55,
@@ -971,6 +1013,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Run Away",
       "category": "Weed Pokémon",
       "height": 0.5,
       "mass": 5.4,
@@ -994,6 +1037,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Stench",
       "category": "Weed Pokémon",
       "height": 0.8,
       "mass": 8.6,
@@ -1017,6 +1061,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Effect Spore",
       "category": "Flower Pokémon",
       "height": 1.2,
       "mass": 18.6,
@@ -1041,6 +1086,7 @@
         "Effect Spore",
         "Dry Skin"
       ],
+      "hiddenAbility": "Damp",
       "category": "Mushroom Pokémon",
       "height": 0.3,
       "mass": 5.4,
@@ -1065,6 +1111,7 @@
         "Effect Spore",
         "Dry Skin"
       ],
+      "hiddenAbility": "Damp",
       "category": "Mushroom Pokémon",
       "height": 1,
       "mass": 29.5,
@@ -1089,6 +1136,7 @@
         "Compound Eyes",
         "Tinted Lens"
       ],
+      "hiddenAbility": "Run Away",
       "category": "Insect Pokémon",
       "height": 1,
       "mass": 30,
@@ -1113,6 +1161,7 @@
         "Shield Dust",
         "Tinted Lens"
       ],
+      "hiddenAbility": "Wonder Skin",
       "category": "Poison Moth Pokémon",
       "height": 1.5,
       "mass": 12.5,
@@ -1136,6 +1185,7 @@
         "Sand Veil",
         "Arena Trap"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Mole Pokémon",
       "height": 0.2,
       "mass": 0.8,
@@ -1159,6 +1209,7 @@
         "Sand Veil",
         "Arena Trap"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Mole Pokémon",
       "height": 0.7,
       "mass": 33.3,
@@ -1182,6 +1233,7 @@
         "Pickup",
         "Technician"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Scratch Cat Pokémon",
       "height": 0.4,
       "mass": 4.2,
@@ -1205,6 +1257,7 @@
         "Limber",
         "Technician"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Classy Cat Pokémon",
       "height": 1,
       "mass": 32,
@@ -1228,6 +1281,7 @@
         "Damp",
         "Cloud Nine"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Duck Pokémon",
       "height": 0.8,
       "mass": 19.6,
@@ -1251,6 +1305,7 @@
         "Damp",
         "Cloud Nine"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Duck Pokémon",
       "height": 1.7,
       "mass": 76.6,
@@ -1274,6 +1329,7 @@
         "Vital Spirit",
         "Anger Point"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Pig Monkey Pokémon",
       "height": 0.5,
       "mass": 28,
@@ -1297,6 +1353,7 @@
         "Vital Spirit",
         "Anger Point"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Pig Monkey Pokémon",
       "height": 1,
       "mass": 32,
@@ -1320,6 +1377,7 @@
         "Intimidate",
         "Flash Fire"
       ],
+      "hiddenAbility": "Justified",
       "category": "Puppy Pokémon",
       "height": 0.7,
       "mass": 19,
@@ -1343,6 +1401,7 @@
         "Intimidate",
         "Flash Fire"
       ],
+      "hiddenAbility": "Justified",
       "category": "Legendary Pokémon",
       "height": 1.9,
       "mass": 155,
@@ -1366,6 +1425,7 @@
         "Water Absorb",
         "Damp"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Tadpole Pokémon",
       "height": 0.6,
       "mass": 12.4,
@@ -1389,6 +1449,7 @@
         "Water Absorb",
         "Damp"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Tadpole Pokémon",
       "height": 1,
       "mass": 20,
@@ -1413,6 +1474,7 @@
         "Water Absorb",
         "Damp"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Tadpole Pokémon",
       "height": 1.3,
       "mass": 54,
@@ -1436,6 +1498,7 @@
         "Synchronize",
         "Inner Focus"
       ],
+      "hiddenAbility": "Magic Guard",
       "category": "Psi Pokémon",
       "height": 0.9,
       "mass": 19.5,
@@ -1459,6 +1522,7 @@
         "Synchronize",
         "Inner Focus"
       ],
+      "hiddenAbility": "Magic Guard",
       "category": "Psi Pokémon",
       "height": 1.3,
       "mass": 56.5,
@@ -1482,6 +1546,7 @@
         "Synchronize",
         "Inner Focus"
       ],
+      "hiddenAbility": "Magic Guard",
       "category": "Psi Pokémon",
       "height": 1.5,
       "mass": 48,
@@ -1505,6 +1570,7 @@
         "Guts",
         "No Guard"
       ],
+      "hiddenAbility": "Steadfast",
       "category": "Superpower Pokémon",
       "height": 0.8,
       "mass": 19.5,
@@ -1528,6 +1594,7 @@
         "Guts",
         "No Guard"
       ],
+      "hiddenAbility": "Steadfast",
       "category": "Superpower Pokémon",
       "height": 1.5,
       "mass": 70.5,
@@ -1551,6 +1618,7 @@
         "Guts",
         "No Guard"
       ],
+      "hiddenAbility": "Steadfast",
       "category": "Superpower Pokémon",
       "height": 1.6,
       "mass": 130,
@@ -1574,6 +1642,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Gluttony",
       "category": "Flower Pokémon",
       "height": 0.7,
       "mass": 4,
@@ -1597,6 +1666,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Gluttony",
       "category": "Flycatcher Pokémon",
       "height": 1,
       "mass": 6.4,
@@ -1620,6 +1690,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Gluttony",
       "category": "Flycatcher Pokémon",
       "height": 1.7,
       "mass": 15.5,
@@ -1644,6 +1715,7 @@
         "Clear Body",
         "Liquid Ooze"
       ],
+      "hiddenAbility": "Rain Dish",
       "category": "Jellyfish Pokémon",
       "height": 0.9,
       "mass": 45.5,
@@ -1668,6 +1740,7 @@
         "Clear Body",
         "Liquid Ooze"
       ],
+      "hiddenAbility": "Rain Dish",
       "category": "Jellyfish Pokémon",
       "height": 1.6,
       "mass": 55,
@@ -1692,6 +1765,7 @@
         "Rock Head",
         "Sturdy"
       ],
+      "hiddenAbility": "Sand Veil",
       "category": "Rock Pokémon",
       "height": 0.4,
       "mass": 20,
@@ -1716,6 +1790,7 @@
         "Rock Head",
         "Sturdy"
       ],
+      "hiddenAbility": "Sand Veil",
       "category": "Rock Pokémon",
       "height": 1,
       "mass": 105,
@@ -1740,6 +1815,7 @@
         "Rock Head",
         "Sturdy"
       ],
+      "hiddenAbility": "Sand Veil",
       "category": "Megaton Pokémon",
       "height": 1.4,
       "mass": 300,
@@ -1763,6 +1839,7 @@
         "Run Away",
         "Flash Fire"
       ],
+      "hiddenAbility": "Flame Body",
       "category": "Fire Horse Pokémon",
       "height": 1,
       "mass": 30,
@@ -1786,6 +1863,7 @@
         "Run Away",
         "Flash Fire"
       ],
+      "hiddenAbility": "Flame Body",
       "category": "Fire Horse Pokémon",
       "height": 1.7,
       "mass": 95,
@@ -1810,6 +1888,7 @@
         "Oblivious",
         "Own Tempo"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Dopey Pokémon",
       "height": 1.2,
       "mass": 36,
@@ -1834,6 +1913,7 @@
         "Oblivious",
         "Own Tempo"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Hermit Crab Pokémon",
       "height": 1.6,
       "mass": 78.5,
@@ -1858,6 +1938,7 @@
         "Magnet Pull",
         "Sturdy"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Magnet Pokémon",
       "height": 0.3,
       "mass": 6,
@@ -1882,6 +1963,7 @@
         "Magnet Pull",
         "Sturdy"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Magnet Pokémon",
       "height": 1,
       "mass": 60,
@@ -1906,6 +1988,7 @@
         "Keen Eye",
         "Inner Focus"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Wild Duck Pokémon",
       "height": 0.8,
       "mass": 15,
@@ -1930,6 +2013,7 @@
         "Run Away",
         "Early Bird"
       ],
+      "hiddenAbility": "Tangled Feet",
       "category": "Twin Bird Pokémon",
       "height": 1.4,
       "mass": 39.2,
@@ -1954,6 +2038,7 @@
         "Run Away",
         "Early Bird"
       ],
+      "hiddenAbility": "Tangled Feet",
       "category": "Triple Bird Pokémon",
       "height": 1.8,
       "mass": 85.2,
@@ -1977,6 +2062,7 @@
         "Thick Fat",
         "Hydration"
       ],
+      "hiddenAbility": "Ice Body",
       "category": "Sea Lion Pokémon",
       "height": 1.1,
       "mass": 90,
@@ -2001,6 +2087,7 @@
         "Thick Fat",
         "Hydration"
       ],
+      "hiddenAbility": "Ice Body",
       "category": "Sea Lion Pokémon",
       "height": 1.7,
       "mass": 120,
@@ -2024,6 +2111,7 @@
         "Stench",
         "Sticky Hold"
       ],
+      "hiddenAbility": "Poison Touch",
       "category": "Sludge Pokémon",
       "height": 0.9,
       "mass": 30,
@@ -2047,6 +2135,7 @@
         "Stench",
         "Sticky Hold"
       ],
+      "hiddenAbility": "Poison Touch",
       "category": "Sludge Pokémon",
       "height": 1.2,
       "mass": 30,
@@ -2070,6 +2159,7 @@
         "Shell Armor",
         "Skill Link"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Bivalve Pokémon",
       "height": 0.3,
       "mass": 4,
@@ -2094,6 +2184,7 @@
         "Shell Armor",
         "Skill Link"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Bivalve Pokémon",
       "height": 1.5,
       "mass": 132.5,
@@ -2117,6 +2208,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Gas Pokémon",
       "height": 1.3,
       "mass": 0.1,
@@ -2140,6 +2232,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Gas Pokémon",
       "height": 1.6,
       "mass": 0.1,
@@ -2163,6 +2256,7 @@
       "ability": [
         "Cursed Body"
       ],
+      "hiddenAbility": null,
       "category": "Shadow Pokémon",
       "height": 1.5,
       "mass": 40.5,
@@ -2187,6 +2281,7 @@
         "Rock Head",
         "Sturdy"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Rock Snake Pokémon",
       "height": 8.8,
       "mass": 210,
@@ -2210,6 +2305,7 @@
         "Insomnia",
         "Forewarn"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Hypnosis Pokémon",
       "height": 1,
       "mass": 32.4,
@@ -2233,6 +2329,7 @@
         "Insomnia",
         "Forewarn"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Hypnosis Pokémon",
       "height": 1.6,
       "mass": 75.6,
@@ -2256,6 +2353,7 @@
         "Hyper Cutter",
         "Shell Armor"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "River Crab Pokémon",
       "height": 0.4,
       "mass": 6.5,
@@ -2279,6 +2377,7 @@
         "Hyper Cutter",
         "Shell Armor"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Pincer Pokémon",
       "height": 1.3,
       "mass": 60,
@@ -2302,6 +2401,7 @@
         "Soundproof",
         "Static"
       ],
+      "hiddenAbility": "Aftermath",
       "category": "Ball Pokémon",
       "height": 0.5,
       "mass": 10.4,
@@ -2325,6 +2425,7 @@
         "Soundproof",
         "Static"
       ],
+      "hiddenAbility": "Aftermath",
       "category": "Ball Pokémon",
       "height": 1.2,
       "mass": 66.6,
@@ -2348,6 +2449,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Harvest",
       "category": "Egg Pokémon",
       "height": 0.4,
       "mass": 2.5,
@@ -2371,6 +2473,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Harvest",
       "category": "Coconut Pokémon",
       "height": 2,
       "mass": 120,
@@ -2394,6 +2497,7 @@
         "Rock Head",
         "Lightning Rod"
       ],
+      "hiddenAbility": "Battle Armor",
       "category": "Lonely Pokémon",
       "height": 0.4,
       "mass": 6.5,
@@ -2417,6 +2521,7 @@
         "Rock Head",
         "Lightning Rod"
       ],
+      "hiddenAbility": "Battle Armor",
       "category": "Bone Keeper Pokémon",
       "height": 1,
       "mass": 45,
@@ -2440,6 +2545,7 @@
         "Limber",
         "Reckless"
       ],
+      "hiddenAbility": "Unburden",
       "category": "Kicking Pokémon",
       "height": 1.5,
       "mass": 49.8,
@@ -2463,6 +2569,7 @@
         "Keen Eye",
         "Iron Fist"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Punching Pokémon",
       "height": 1.4,
       "mass": 50.2,
@@ -2486,6 +2593,7 @@
         "Own Tempo",
         "Oblivious"
       ],
+      "hiddenAbility": "Cloud Nine",
       "category": "Licking Pokémon",
       "height": 1.2,
       "mass": 65.5,
@@ -2509,6 +2617,7 @@
         "Levitate",
         "Neutralizing Gas"
       ],
+      "hiddenAbility": "Stench",
       "category": "Poison Gas Pokémon",
       "height": 0.6,
       "mass": 1,
@@ -2532,6 +2641,7 @@
         "Levitate",
         "Neutralizing Gas"
       ],
+      "hiddenAbility": "Stench",
       "category": "Poison Gas Pokémon",
       "height": 1.2,
       "mass": 9.5,
@@ -2556,6 +2666,7 @@
         "Lightning Rod",
         "Rock Head"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Spikes Pokémon",
       "height": 1,
       "mass": 115,
@@ -2580,6 +2691,7 @@
         "Lightning Rod",
         "Rock Head"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Drill Pokémon",
       "height": 1.9,
       "mass": 120,
@@ -2603,6 +2715,7 @@
         "Natural Cure",
         "Serene Grace"
       ],
+      "hiddenAbility": "Healer",
       "category": "Egg Pokémon",
       "height": 1.1,
       "mass": 34.6,
@@ -2626,6 +2739,7 @@
         "Chlorophyll",
         "Leaf Guard"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Vine Pokémon",
       "height": 1,
       "mass": 35,
@@ -2649,6 +2763,7 @@
         "Early Bird",
         "Scrappy"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Parent Pokémon",
       "height": 2.2,
       "mass": 80,
@@ -2672,6 +2787,7 @@
         "Swift Swim",
         "Sniper"
       ],
+      "hiddenAbility": "Damp",
       "category": "Dragon Pokémon",
       "height": 0.4,
       "mass": 8,
@@ -2695,6 +2811,7 @@
         "Poison Point",
         "Sniper"
       ],
+      "hiddenAbility": "Damp",
       "category": "Dragon Pokémon",
       "height": 1.2,
       "mass": 25,
@@ -2718,6 +2835,7 @@
         "Swift Swim",
         "Water Veil"
       ],
+      "hiddenAbility": "Lightning Rod",
       "category": "Goldfish Pokémon",
       "height": 0.6,
       "mass": 15,
@@ -2741,6 +2859,7 @@
         "Swift Swim",
         "Water Veil"
       ],
+      "hiddenAbility": "Lightning Rod",
       "category": "Goldfish Pokémon",
       "height": 1.3,
       "mass": 39,
@@ -2764,6 +2883,7 @@
         "Illuminate",
         "Natural Cure"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Star Shape Pokémon",
       "height": 0.8,
       "mass": 34.5,
@@ -2788,6 +2908,7 @@
         "Illuminate",
         "Natural Cure"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Mysterious Pokémon",
       "height": 1.1,
       "mass": 80,
@@ -2812,6 +2933,7 @@
         "Soundproof",
         "Filter"
       ],
+      "hiddenAbility": "Technician",
       "category": "Barrier Pokémon",
       "height": 1.3,
       "mass": 54.5,
@@ -2836,6 +2958,7 @@
         "Swarm",
         "Technician"
       ],
+      "hiddenAbility": "Steadfast",
       "category": "Mantis Pokémon",
       "height": 1.5,
       "mass": 56,
@@ -2860,6 +2983,7 @@
         "Oblivious",
         "Forewarn"
       ],
+      "hiddenAbility": "Dry Skin",
       "category": "Human Shape Pokémon",
       "height": 1.4,
       "mass": 40.6,
@@ -2882,6 +3006,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Vital Spirit",
       "category": "Electric Pokémon",
       "height": 1.1,
       "mass": 30,
@@ -2904,6 +3029,7 @@
       "ability": [
         "Flame Body"
       ],
+      "hiddenAbility": "Vital Spirit",
       "category": "Spitfire Pokémon",
       "height": 1.3,
       "mass": 44.5,
@@ -2927,6 +3053,7 @@
         "Hyper Cutter",
         "Mold Breaker"
       ],
+      "hiddenAbility": "Moxie",
       "category": "Stag Beetle Pokémon",
       "height": 1.5,
       "mass": 55,
@@ -2950,6 +3077,7 @@
         "Intimidate",
         "Anger Point"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Wild Bull Pokémon",
       "height": 1.4,
       "mass": 88.4,
@@ -2972,6 +3100,7 @@
       "ability": [
         "Swift Swim"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Fish Pokémon",
       "height": 0.9,
       "mass": 10,
@@ -2995,6 +3124,7 @@
       "ability": [
         "Intimidate"
       ],
+      "hiddenAbility": "Moxie",
       "category": "Atrocious Pokémon",
       "height": 6.5,
       "mass": 235,
@@ -3019,6 +3149,7 @@
         "Water Absorb",
         "Shell Armor"
       ],
+      "hiddenAbility": "Hydration",
       "category": "Transport Pokémon",
       "height": 2.5,
       "mass": 220,
@@ -3041,6 +3172,7 @@
       "ability": [
         "Limber"
       ],
+      "hiddenAbility": "Imposter",
       "category": "Transform Pokémon",
       "height": 0.3,
       "mass": 4,
@@ -3064,6 +3196,7 @@
         "Run Away",
         "Adaptability"
       ],
+      "hiddenAbility": "Anticipation",
       "category": "Evolution Pokémon",
       "height": 0.3,
       "mass": 6.5,
@@ -3086,6 +3219,7 @@
       "ability": [
         "Water Absorb"
       ],
+      "hiddenAbility": "Hydration",
       "category": "Bubble Jet Pokémon",
       "height": 1,
       "mass": 29,
@@ -3108,6 +3242,7 @@
       "ability": [
         "Volt Absorb"
       ],
+      "hiddenAbility": "Quick Feet",
       "category": "Lightning Pokémon",
       "height": 0.8,
       "mass": 24.5,
@@ -3130,6 +3265,7 @@
       "ability": [
         "Flash Fire"
       ],
+      "hiddenAbility": "Guts",
       "category": "Flame Pokémon",
       "height": 0.9,
       "mass": 25,
@@ -3153,6 +3289,7 @@
         "Trace",
         "Download"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Virtual Pokémon",
       "height": 0.8,
       "mass": 36.5,
@@ -3177,6 +3314,7 @@
         "Swift Swim",
         "Shell Armor"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Spiral Pokémon",
       "height": 0.4,
       "mass": 7.5,
@@ -3201,6 +3339,7 @@
         "Swift Swim",
         "Shell Armor"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Spiral Pokémon",
       "height": 1,
       "mass": 35,
@@ -3225,6 +3364,7 @@
         "Swift Swim",
         "Battle Armor"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Shellfish Pokémon",
       "height": 0.5,
       "mass": 11.5,
@@ -3249,6 +3389,7 @@
         "Swift Swim",
         " Battle Armor"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Shellfish Pokémon",
       "height": 1.3,
       "mass": 40.5,
@@ -3273,6 +3414,7 @@
         "Rock Head",
         "Pressure"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Fossil Pokémon",
       "height": 1.8,
       "mass": 59,
@@ -3296,6 +3438,7 @@
         "Immunity",
         "Thick Fat"
       ],
+      "hiddenAbility": "Gluttony",
       "category": "Sleeping Pokémon",
       "height": 2.1,
       "mass": 460,
@@ -3319,6 +3462,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Snow Cloak",
       "category": "Freeze Pokémon",
       "height": 1.7,
       "mass": 55.4,
@@ -3342,6 +3486,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Static",
       "category": "Electric Pokémon",
       "height": 1.6,
       "mass": 52.6,
@@ -3365,6 +3510,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Flame Body",
       "category": "Flame Pokémon",
       "height": 2,
       "mass": 60,
@@ -3387,6 +3533,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": "Marvel Scale",
       "category": "Dragon Pokémon",
       "height": 1.8,
       "mass": 3.3,
@@ -3409,6 +3556,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": "Marvel Scale",
       "category": "Dragon Pokémon",
       "height": 4,
       "mass": 16.5,
@@ -3432,6 +3580,7 @@
       "ability": [
         "Inner Focus"
       ],
+      "hiddenAbility": "Multiscale",
       "category": "Dragon Pokémon",
       "height": 2.2,
       "mass": 210,
@@ -3454,6 +3603,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Genetic Pokémon",
       "height": 2,
       "mass": 122,
@@ -3476,6 +3626,7 @@
       "ability": [
         "Synchronize"
       ],
+      "hiddenAbility": null,
       "category": "New Species Pokémon",
       "height": 0.4,
       "mass": 4,
@@ -3498,6 +3649,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Leaf Guard",
       "category": "Leaf Pokémon",
       "height": 0.9,
       "mass": 6.4,
@@ -3520,6 +3672,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Leaf Guard",
       "category": "Leaf Pokémon",
       "height": 1.2,
       "mass": 15.8,
@@ -3542,6 +3695,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Leaf Guard",
       "category": "Herb Pokémon",
       "height": 1.8,
       "mass": 100.5,
@@ -3564,6 +3718,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Flash Fire",
       "category": "Fire Mouse Pokémon",
       "height": 0.5,
       "mass": 7.9,
@@ -3586,6 +3741,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Flash Fire",
       "category": "Volcano Pokémon",
       "height": 0.9,
       "mass": 19,
@@ -3608,6 +3764,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Flash Fire",
       "category": "Volcano Pokémon",
       "height": 1.7,
       "mass": 79.5,
@@ -3630,6 +3787,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Big Jaw Pokémon",
       "height": 0.6,
       "mass": 9.5,
@@ -3652,6 +3810,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Big Jaw Pokémon",
       "height": 1.1,
       "mass": 25,
@@ -3674,6 +3833,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Big Jaw Pokémon",
       "height": 2.3,
       "mass": 88.8,
@@ -3697,6 +3857,7 @@
         "Run Away",
         "Keen Eye"
       ],
+      "hiddenAbility": "Frisk",
       "category": "Scout Pokémon",
       "height": 0.8,
       "mass": 6,
@@ -3720,6 +3881,7 @@
         "Run Away",
         "Keen Eye"
       ],
+      "hiddenAbility": "Frisk",
       "category": "Long Body Pokémon",
       "height": 1.8,
       "mass": 32.5,
@@ -3744,6 +3906,7 @@
         "Insomnia",
         "Keen Eye"
       ],
+      "hiddenAbility": "Tinted Lens",
       "category": "Owl Pokémon",
       "height": 0.7,
       "mass": 21.2,
@@ -3768,6 +3931,7 @@
         "Insomnia",
         "Keen Eye"
       ],
+      "hiddenAbility": "Tinted Lens",
       "category": "Owl Pokémon",
       "height": 1.6,
       "mass": 40.8,
@@ -3792,6 +3956,7 @@
         "Swarm",
         "Early Bird"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Five Star Pokémon",
       "height": 1,
       "mass": 10.8,
@@ -3816,6 +3981,7 @@
         "Swarm",
         "Early Bird"
       ],
+      "hiddenAbility": "Iron Fist",
       "category": "Five Star Pokémon",
       "height": 1.4,
       "mass": 35.6,
@@ -3840,6 +4006,7 @@
         "Swarm",
         "Insomnia"
       ],
+      "hiddenAbility": "Sniper",
       "category": "String Spit Pokémon",
       "height": 0.5,
       "mass": 8.5,
@@ -3864,6 +4031,7 @@
         "Swarm",
         "Insomnia"
       ],
+      "hiddenAbility": "Sniper",
       "category": "Long Leg Pokémon",
       "height": 1.1,
       "mass": 33.5,
@@ -3887,6 +4055,7 @@
       "ability": [
         "Inner Focus"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Bat Pokémon",
       "height": 1.8,
       "mass": 75,
@@ -3911,6 +4080,7 @@
         "Volt Absorb",
         "Illuminate"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Angler Pokémon",
       "height": 0.5,
       "mass": 12,
@@ -3935,6 +4105,7 @@
         "Volt Absorb",
         "Illuminate"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Light Pokémon",
       "height": 1.2,
       "mass": 22.5,
@@ -3957,6 +4128,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Lightning Rod",
       "category": "Tiny Mouse Pokémon",
       "height": 0.3,
       "mass": 2,
@@ -3980,6 +4152,7 @@
         "Cute Charm",
         "Magic Guard"
       ],
+      "hiddenAbility": "Friend Guard",
       "category": "Star Shape Pokémon",
       "height": 0.3,
       "mass": 3,
@@ -4004,6 +4177,7 @@
         "Cute Charm",
         "Magic Guard"
       ],
+      "hiddenAbility": "Friend Guard",
       "category": "Balloon Pokémon",
       "height": 0.3,
       "mass": 1,
@@ -4027,6 +4201,7 @@
         "Hustle",
         "Serene Grace"
       ],
+      "hiddenAbility": "Super Luck",
       "category": "Spike Ball Pokémon",
       "height": 0.3,
       "mass": 1.5,
@@ -4051,6 +4226,7 @@
         "Hustle",
         "Serene Grace"
       ],
+      "hiddenAbility": "Super Luck",
       "category": "Happiness Pokémon",
       "height": 0.6,
       "mass": 3.2,
@@ -4075,6 +4251,7 @@
         "Synchronize",
         "Early Bird"
       ],
+      "hiddenAbility": "Magic Bounce",
       "category": "Tiny Bird Pokémon",
       "height": 0.2,
       "mass": 2,
@@ -4099,6 +4276,7 @@
         "Synchronize",
         "Early Bird"
       ],
+      "hiddenAbility": "Magic Bounce",
       "category": "Mystic Pokémon",
       "height": 1.5,
       "mass": 15,
@@ -4121,6 +4299,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Plus",
       "category": "Wool Pokémon",
       "height": 0.6,
       "mass": 7.8,
@@ -4143,6 +4322,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Plus",
       "category": "Wool Pokémon",
       "height": 0.8,
       "mass": 13.3,
@@ -4165,6 +4345,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Plus",
       "category": "Light Pokémon",
       "height": 1.4,
       "mass": 61.5,
@@ -4187,6 +4368,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Healer",
       "category": "Flower Pokémon",
       "height": 0.4,
       "mass": 5.8,
@@ -4211,6 +4393,7 @@
         "Thick Fat",
         "Huge Power"
       ],
+      "hiddenAbility": "Sap Sipper",
       "category": "Aqua Mouse Pokémon",
       "height": 0.4,
       "mass": 8.5,
@@ -4235,6 +4418,7 @@
         "Thick Fat",
         "Huge Power"
       ],
+      "hiddenAbility": "Sap Sipper",
       "category": "Aqua Rabbit Pokémon",
       "height": 0.8,
       "mass": 28.5,
@@ -4258,6 +4442,7 @@
         "Sturdy",
         "Rock Head"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Imitation Pokémon",
       "height": 1.2,
       "mass": 38,
@@ -4281,6 +4466,7 @@
         "Water Absorb",
         "Damp"
       ],
+      "hiddenAbility": "Drizzle",
       "category": "Frog Pokémon",
       "height": 1.1,
       "mass": 33.9,
@@ -4305,6 +4491,7 @@
         "Chlorophyll",
         "Leaf Guard"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Cottonweed Pokémon",
       "height": 0.4,
       "mass": 0.5,
@@ -4329,6 +4516,7 @@
         "Chlorophyll",
         "Leaf Guard"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Cottonweed Pokémon",
       "height": 0.6,
       "mass": 1,
@@ -4353,6 +4541,7 @@
         "Chlorophyll",
         "Leaf Guard"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Cottonweed Pokémon",
       "height": 0.8,
       "mass": 3,
@@ -4376,6 +4565,7 @@
         "Run Away",
         "Pickup"
       ],
+      "hiddenAbility": "Skill Link",
       "category": "Long Tail Pokémon",
       "height": 0.8,
       "mass": 11.5,
@@ -4399,6 +4589,7 @@
         "Chlorophyll",
         "Solar Power"
       ],
+      "hiddenAbility": "Early Bird",
       "category": "Seed Pokémon",
       "height": 0.3,
       "mass": 1.8,
@@ -4422,6 +4613,7 @@
         "Chlorophyll",
         "Solar Power"
       ],
+      "hiddenAbility": "Early Bird",
       "category": "Sun Pokémon",
       "height": 0.8,
       "mass": 8.5,
@@ -4446,6 +4638,7 @@
         "Speed Boost",
         "Compound Eyes"
       ],
+      "hiddenAbility": "Frisk",
       "category": "Clear Wing Pokémon",
       "height": 1.2,
       "mass": 38,
@@ -4470,6 +4663,7 @@
         "Damp",
         "Water Absorb"
       ],
+      "hiddenAbility": "Unaware",
       "category": "Water Fish Pokémon",
       "height": 0.4,
       "mass": 8.5,
@@ -4494,6 +4688,7 @@
         "Damp",
         "Water Absorb"
       ],
+      "hiddenAbility": "Unaware",
       "category": "Water Fish Pokémon",
       "height": 1.4,
       "mass": 75,
@@ -4516,6 +4711,7 @@
       "ability": [
         "Synchronize"
       ],
+      "hiddenAbility": "Magic Bounce",
       "category": "Sun Pokémon",
       "height": 0.9,
       "mass": 26.5,
@@ -4538,6 +4734,7 @@
       "ability": [
         "Synchronize"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Moonlight Pokémon",
       "height": 1,
       "mass": 27,
@@ -4562,6 +4759,7 @@
         "Insomnia",
         "Super Luck"
       ],
+      "hiddenAbility": "Prankster",
       "category": "Darkness Pokémon",
       "height": 0.5,
       "mass": 2.1,
@@ -4586,6 +4784,7 @@
         "Oblivious",
         "Own Tempo"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Royal Pokémon",
       "height": 2,
       "mass": 79.5,
@@ -4608,6 +4807,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": "Levitate",
       "category": "Screech Pokémon",
       "height": 0.7,
       "mass": 1,
@@ -4630,6 +4830,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": "Levitate",
       "category": "Symbol Pokémon",
       "height": 0.5,
       "mass": 5,
@@ -4652,6 +4853,7 @@
       "ability": [
         "Shadow Tag"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Patient Pokémon",
       "height": 1.3,
       "mass": 28.5,
@@ -4676,6 +4878,7 @@
         "Inner Focus",
         "Early Bird"
       ],
+      "hiddenAbility": "Sap Sipper",
       "category": "Long Neck Pokémon",
       "height": 1.5,
       "mass": 41.5,
@@ -4698,6 +4901,7 @@
       "ability": [
         "Sturdy"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Bagworm Pokémon",
       "height": 0.6,
       "mass": 7.2,
@@ -4721,6 +4925,7 @@
       "ability": [
         "Sturdy"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Bagworm Pokémon",
       "height": 1.2,
       "mass": 125.8,
@@ -4743,6 +4948,7 @@
       "ability": [
         "Sturdy"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Land Snake Pokémon",
       "height": 1.5,
       "mass": 14,
@@ -4767,6 +4973,7 @@
         "Serene Grace",
         "Run Away"
       ],
+      "hiddenAbility": "Immunity",
       "category": "Fly Scorpion Pokémon",
       "height": 1.1,
       "mass": 64.8,
@@ -4791,6 +4998,7 @@
         "Hyper Cutter",
         "Sand Veil"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Iron Snake Pokémon",
       "height": 9.2,
       "mass": 400,
@@ -4814,6 +5022,7 @@
         "Rock Head",
         "Sturdy"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Fairy Pokémon",
       "height": 0.6,
       "mass": 7.8,
@@ -4837,6 +5046,7 @@
         "Intimidate",
         "Run Away"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Fairy Pokémon",
       "height": 1.4,
       "mass": 48.7,
@@ -4861,6 +5071,7 @@
         "Intimidate",
         "Quick Feet"
       ],
+      "hiddenAbility": "Intimidate",
       "category": "Balloon Pokémon",
       "height": 0.5,
       "mass": 3.9,
@@ -4885,6 +5096,7 @@
         "Poison Point",
         "Swift Swim"
       ],
+      "hiddenAbility": "Light Metal",
       "category": "Pincer Pokémon",
       "height": 1.8,
       "mass": 118,
@@ -4909,6 +5121,7 @@
         "Swarm",
         "Technician"
       ],
+      "hiddenAbility": "Contrary",
       "category": "Mold Pokémon",
       "height": 0.6,
       "mass": 20.5,
@@ -4933,6 +5146,7 @@
         "Sturdy",
         "Gluttony"
       ],
+      "hiddenAbility": "Moxie",
       "category": "Single Horn Pokémon",
       "height": 1.5,
       "mass": 54,
@@ -4957,6 +5171,7 @@
         "Swarm",
         "Guts"
       ],
+      "hiddenAbility": "Pickpocket",
       "category": "Sharp Claw Pokémon",
       "height": 0.9,
       "mass": 28,
@@ -4980,6 +5195,7 @@
         "Inner Focus",
         "Keen Eye"
       ],
+      "hiddenAbility": "Honey Gather",
       "category": "Little Bear Pokémon",
       "height": 0.6,
       "mass": 8.8,
@@ -5003,6 +5219,7 @@
         "Pickup",
         "Quick Feet"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Hibernator Pokémon",
       "height": 1.8,
       "mass": 125.8,
@@ -5026,6 +5243,7 @@
         "Guts",
         "Quick Feet"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Lava Pokémon",
       "height": 0.7,
       "mass": 35,
@@ -5050,6 +5268,7 @@
         "Magma Armor",
         "Flame Body"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Lava Pokémon",
       "height": 0.8,
       "mass": 55,
@@ -5074,6 +5293,7 @@
         "Magma Armor",
         "Flame Body"
       ],
+      "hiddenAbility": "Thick Fat",
       "category": "Pig Pokémon",
       "height": 0.4,
       "mass": 6.5,
@@ -5098,6 +5318,7 @@
         "Oblivious",
         "Snow Cloak"
       ],
+      "hiddenAbility": "Thick Fat",
       "category": "Swine Pokémon",
       "height": 1.1,
       "mass": 55.8,
@@ -5122,6 +5343,7 @@
         "Oblivious",
         "Snow Cloak"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Coral Pokémon",
       "height": 0.6,
       "mass": 5,
@@ -5145,6 +5367,7 @@
         "Hustle",
         "Natural Cure"
       ],
+      "hiddenAbility": "Moody",
       "category": "Jet Pokémon",
       "height": 0.6,
       "mass": 12,
@@ -5168,6 +5391,7 @@
         "Hustle",
         "Sniper"
       ],
+      "hiddenAbility": "Moody",
       "category": "Jet Pokémon",
       "height": 0.9,
       "mass": 28.5,
@@ -5192,6 +5416,7 @@
         "Suction Cups",
         "Sniper"
       ],
+      "hiddenAbility": "Insomnia",
       "category": "Delivery Pokémon",
       "height": 0.9,
       "mass": 16,
@@ -5216,6 +5441,7 @@
         "Vital Spirit",
         "Hustle"
       ],
+      "hiddenAbility": "Water Veil",
       "category": "Kite Pokémon",
       "height": 2.1,
       "mass": 220,
@@ -5240,6 +5466,7 @@
         "Swift Swim",
         "Water Absorb"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Armor Bird Pokémon",
       "height": 1.7,
       "mass": 50.5,
@@ -5264,6 +5491,7 @@
         "Keen Eye",
         "Sturdy"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Dark Pokémon",
       "height": 0.6,
       "mass": 10.8,
@@ -5288,6 +5516,7 @@
         "Early Bird",
         "Flash Fire"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Dark Pokémon",
       "height": 1.4,
       "mass": 35,
@@ -5312,6 +5541,7 @@
         "Early Bird",
         "Flash Fire"
       ],
+      "hiddenAbility": "Damp",
       "category": "Dragon Pokémon",
       "height": 1.8,
       "mass": 152,
@@ -5335,6 +5565,7 @@
         "Swift Swim",
         "Sniper"
       ],
+      "hiddenAbility": "Sand Veil",
       "category": "Long Nose Pokémon",
       "height": 0.5,
       "mass": 33.5,
@@ -5357,6 +5588,7 @@
       "ability": [
         "Pickup"
       ],
+      "hiddenAbility": "Sand Veil",
       "category": "Armor Pokémon",
       "height": 1.1,
       "mass": 120,
@@ -5379,6 +5611,7 @@
       "ability": [
         "Sturdy"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Virtual Pokémon",
       "height": 0.6,
       "mass": 32.5,
@@ -5402,6 +5635,7 @@
         "Trace",
         "Download"
       ],
+      "hiddenAbility": "Sap Sipper",
       "category": "Big Horn Pokémon",
       "height": 1.4,
       "mass": 71.2,
@@ -5425,6 +5659,7 @@
         "Intimidate",
         "Frisk"
       ],
+      "hiddenAbility": "Moody",
       "category": "Painter Pokémon",
       "height": 1.2,
       "mass": 58,
@@ -5448,6 +5683,7 @@
         "Own Tempo",
         "Technician"
       ],
+      "hiddenAbility": "Vital Spirit",
       "category": "Scuffle Pokémon",
       "height": 0.7,
       "mass": 21,
@@ -5471,6 +5707,7 @@
         "Guts",
         "Steadfast"
       ],
+      "hiddenAbility": "Stead Fast",
       "category": "Handstand Pokémon",
       "height": 1.4,
       "mass": 48,
@@ -5495,6 +5732,7 @@
         "Intimidate",
         "Technician"
       ],
+      "hiddenAbility": "Hydration",
       "category": "Kiss Pokémon",
       "height": 0.4,
       "mass": 6,
@@ -5518,6 +5756,7 @@
         "Oblivious",
         "Forewarn"
       ],
+      "hiddenAbility": "Vital Spirit",
       "category": "Electric Pokémon",
       "height": 0.6,
       "mass": 23.5,
@@ -5540,6 +5779,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Vital Spirit",
       "category": "Live Coal Pokémon",
       "height": 0.7,
       "mass": 21.4,
@@ -5562,6 +5802,7 @@
       "ability": [
         "Flame Body"
       ],
+      "hiddenAbility": "Sap Sipper",
       "category": "Milk Cow Pokémon",
       "height": 1.2,
       "mass": 75.5,
@@ -5585,6 +5826,7 @@
         "Thick Fat",
         "Scrappy"
       ],
+      "hiddenAbility": "Healer",
       "category": "Happiness Pokémon",
       "height": 1.5,
       "mass": 46.8,
@@ -5608,6 +5850,7 @@
         "Natural Cure",
         "Serene Grace"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Thunder Pokémon",
       "height": 1.9,
       "mass": 178,
@@ -5630,6 +5873,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Volcano Pokémon",
       "height": 2.1,
       "mass": 198,
@@ -5652,6 +5896,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Aurora Pokémon",
       "height": 2,
       "mass": 187,
@@ -5675,6 +5920,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Sand Veil",
       "category": "Rock Skin Pokémon",
       "height": 0.6,
       "mass": 72,
@@ -5698,6 +5944,7 @@
       "ability": [
         "Guts"
       ],
+      "hiddenAbility": null,
       "category": "Hard Shell Pokémon",
       "height": 1.2,
       "mass": 152,
@@ -5721,6 +5968,7 @@
       "ability": [
         "Sand Stream"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Armor Pokémon",
       "height": 2,
       "mass": 202,
@@ -5744,6 +5992,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Multiscale",
       "category": "Diving Pokémon",
       "height": 5.2,
       "mass": 216,
@@ -5767,6 +6016,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Rainbow Pokémon",
       "height": 3.8,
       "mass": 199,
@@ -5790,6 +6040,7 @@
       "ability": [
         "Natural Cure"
       ],
+      "hiddenAbility": null,
       "category": "Time Travel Pokémon",
       "height": 0.6,
       "mass": 5,
@@ -5812,6 +6063,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Unburden",
       "category": "Wood Gecko Pokémon",
       "height": 0.5,
       "mass": 5,
@@ -5834,6 +6086,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Unburden",
       "category": "Wood Gecko Pokémon",
       "height": 0.9,
       "mass": 21.6,
@@ -5856,6 +6109,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Unburden",
       "category": "Forest Pokémon",
       "height": 1.7,
       "mass": 52.2,
@@ -5878,6 +6132,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Speed Boost",
       "category": "Chick Pokémon",
       "height": 0.4,
       "mass": 2.5,
@@ -5901,6 +6156,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Speed Boost",
       "category": "Young Fowl Pokémon",
       "height": 0.9,
       "mass": 19.5,
@@ -5924,6 +6180,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Speed Boost",
       "category": "Blaze Pokémon",
       "height": 1.9,
       "mass": 52,
@@ -5946,6 +6203,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Damp",
       "category": "Mud Fish Pokémon",
       "height": 0.4,
       "mass": 7.6,
@@ -5969,6 +6227,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Damp",
       "category": "Mud Fish Pokémon",
       "height": 0.7,
       "mass": 28,
@@ -5992,6 +6251,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Damp",
       "category": "Mud Fish Pokémon",
       "height": 1.5,
       "mass": 81.9,
@@ -6015,6 +6275,7 @@
         "Run Away",
         "Quick Feet"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Bite Pokémon",
       "height": 0.5,
       "mass": 13.6,
@@ -6038,6 +6299,7 @@
         "Intimidate",
         "Quick Feet"
       ],
+      "hiddenAbility": "Movie",
       "category": "Bite Pokémon",
       "height": 1,
       "mass": 37,
@@ -6061,6 +6323,7 @@
         "Pickup",
         "Gluttony"
       ],
+      "hiddenAbility": "Quick Feet",
       "category": "Tiny Raccoon Pokémon",
       "height": 0.4,
       "mass": 17.5,
@@ -6084,6 +6347,7 @@
         "Pickup",
         "Gluttony"
       ],
+      "hiddenAbility": "Quick Feet",
       "category": "Rushing Pokémon",
       "height": 0.5,
       "mass": 32.5,
@@ -6106,6 +6370,7 @@
       "ability": [
         "Shield Dust"
       ],
+      "hiddenAbility": "Run Away",
       "category": "Worm Pokémon",
       "height": 0.3,
       "mass": 3.6,
@@ -6128,6 +6393,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": null,
       "category": "Cocoon Pokémon",
       "height": 0.6,
       "mass": 10,
@@ -6151,6 +6417,7 @@
       "ability": [
         "Swarm"
       ],
+      "hiddenAbility": "Rivalry",
       "category": "Butterfly Pokémon",
       "height": 1,
       "mass": 28.4,
@@ -6173,6 +6440,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": null,
       "category": "Cocoon Pokémon",
       "height": 0.7,
       "mass": 11.5,
@@ -6196,6 +6464,7 @@
       "ability": [
         "Shield Dust"
       ],
+      "hiddenAbility": "Compund Eyes",
       "category": "Poison Moth Pokémon",
       "height": 1.2,
       "mass": 31.6,
@@ -6220,6 +6489,7 @@
         "Swift Swim",
         "Rain Dish"
       ],
+      "hiddenAbility": "Own Tempo",
       "category": "Water Weed Pokémon",
       "height": 0.5,
       "mass": 2.6,
@@ -6244,6 +6514,7 @@
         "Swift Swim",
         "Rain Dish"
       ],
+      "hiddenAbility": "Own Tempo",
       "category": "Jolly Pokémon",
       "height": 1.2,
       "mass": 32.5,
@@ -6268,6 +6539,7 @@
         "Swift Swim",
         "Rain Dish"
       ],
+      "hiddenAbility": "Own Tempo",
       "category": "Carefree Pokémon",
       "height": 1.5,
       "mass": 55,
@@ -6291,6 +6563,7 @@
         "Chlorophyll",
         "Early Bird"
       ],
+      "hiddenAbility": "Pickpocket",
       "category": "Acorn Pokémon",
       "height": 0.5,
       "mass": 4,
@@ -6315,6 +6588,7 @@
         "Chlorophyll",
         "Early Bird"
       ],
+      "hiddenAbility": "Pickpocket",
       "category": "Wily Pokémon",
       "height": 1,
       "mass": 28,
@@ -6339,6 +6613,7 @@
         "Chlorophyll",
         "Wind Rider"
       ],
+      "hiddenAbility": "Pickpocket",
       "category": "Wicked Pokémon",
       "height": 1.3,
       "mass": 59.6,
@@ -6362,6 +6637,7 @@
       "ability": [
         "Guts"
       ],
+      "hiddenAbility": "Scrappy",
       "category": "Tiny Swallow Pokémon",
       "height": 0.3,
       "mass": 2.3,
@@ -6385,6 +6661,7 @@
       "ability": [
         "Guts"
       ],
+      "hiddenAbility": "Scrappy",
       "category": "Swallow Pokémon",
       "height": 0.7,
       "mass": 19.8,
@@ -6409,6 +6686,7 @@
         "Keen Eye",
         "Hydration"
       ],
+      "hiddenAbility": "Rain Dish",
       "category": "Seagull Pokémon",
       "height": 0.6,
       "mass": 9.5,
@@ -6433,6 +6711,7 @@
         "Keen Eye",
         "Drizzle"
       ],
+      "hiddenAbility": "Rain Dish",
       "category": "Water Bird Pokémon",
       "height": 1.2,
       "mass": 28,
@@ -6457,6 +6736,7 @@
         "Synchronize",
         "Trace"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Feeling Pokémon",
       "height": 0.4,
       "mass": 6.6,
@@ -6481,6 +6761,7 @@
         "Synchronize",
         "Trace"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Emotion Pokémon",
       "height": 0.8,
       "mass": 20.2,
@@ -6505,6 +6786,7 @@
         "Synchronize",
         "Trace"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Embrace Pokémon",
       "height": 1.6,
       "mass": 48.4,
@@ -6528,6 +6810,7 @@
       "ability": [
         "Swift Swim"
       ],
+      "hiddenAbility": "Rain Dish",
       "category": "Pond Skater Pokémon",
       "height": 0.5,
       "mass": 1.7,
@@ -6551,6 +6834,7 @@
       "ability": [
         "Intimidate"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Eyeball Pokémon",
       "height": 0.8,
       "mass": 3.6,
@@ -6574,6 +6858,7 @@
         "Effect Spore",
         "Poison Heal"
       ],
+      "hiddenAbility": "Quick Feet",
       "category": "Mushroom Pokémon",
       "height": 0.4,
       "mass": 4.5,
@@ -6598,6 +6883,7 @@
         "Effect Spore",
         "Poison Heal"
       ],
+      "hiddenAbility": "Technician",
       "category": "Mushroom Pokémon",
       "height": 1.2,
       "mass": 39.2,
@@ -6620,6 +6906,7 @@
       "ability": [
         "Truant"
       ],
+      "hiddenAbility": null,
       "category": "Slacker Pokémon",
       "height": 0.8,
       "mass": 24,
@@ -6642,6 +6929,7 @@
       "ability": [
         "Vital Spirit"
       ],
+      "hiddenAbility": null,
       "category": "Wild Monkey Pokémon",
       "height": 1.4,
       "mass": 46.5,
@@ -6664,6 +6952,7 @@
       "ability": [
         "Truant"
       ],
+      "hiddenAbility": null,
       "category": "Lazy Pokémon",
       "height": 2,
       "mass": 130.5,
@@ -6687,6 +6976,7 @@
       "ability": [
         "Compound Eyes"
       ],
+      "hiddenAbility": "Run Away",
       "category": "Trainee Pokémon",
       "height": 0.5,
       "mass": 5.5,
@@ -6710,6 +7000,7 @@
       "ability": [
         "Speed Boost"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Ninja Pokémon",
       "height": 0.8,
       "mass": 12,
@@ -6733,6 +7024,7 @@
       "ability": [
         "Wonder Guard"
       ],
+      "hiddenAbility": null,
       "category": "Shed Pokémon",
       "height": 0.8,
       "mass": 1.2,
@@ -6755,6 +7047,7 @@
       "ability": [
         "Soundproof"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Whisper Pokémon",
       "height": 0.6,
       "mass": 16.3,
@@ -6777,6 +7070,7 @@
       "ability": [
         "Soundproof"
       ],
+      "hiddenAbility": "Scrappy",
       "category": "Big Voice Pokémon",
       "height": 1,
       "mass": 40.5,
@@ -6799,6 +7093,7 @@
       "ability": [
         "Soundproof"
       ],
+      "hiddenAbility": "Scrappy",
       "category": "Loud Noise Pokémon",
       "height": 1.5,
       "mass": 84,
@@ -6822,6 +7117,7 @@
         "Thick Fat",
         "Guts"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Guts Pokémon",
       "height": 1,
       "mass": 86.4,
@@ -6845,6 +7141,7 @@
         "Thick Fat",
         "Guts"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Arm Thrust Pokémon",
       "height": 2.3,
       "mass": 253.8,
@@ -6869,6 +7166,7 @@
         "Thick Fat",
         "Huge Power"
       ],
+      "hiddenAbility": "Sap Sipper",
       "category": "Polka Dot Pokémon",
       "height": 0.2,
       "mass": 2,
@@ -6892,6 +7190,7 @@
         "Sturdy",
         "Magnet Pull"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Compass Pokémon",
       "height": 1,
       "mass": 97,
@@ -6915,6 +7214,7 @@
         "Cute Charm",
         "Normalize"
       ],
+      "hiddenAbility": "Wonder Skin",
       "category": "Kitten Pokémon",
       "height": 0.6,
       "mass": 11,
@@ -6938,6 +7238,7 @@
         "Cute Charm",
         "Normalize"
       ],
+      "hiddenAbility": "Wonder Skin",
       "category": "Prim Pokémon",
       "height": 1.1,
       "mass": 32.6,
@@ -6962,6 +7263,7 @@
         "Keen Eye",
         "Stall"
       ],
+      "hiddenAbility": "Prankster",
       "category": "Darkness Pokémon",
       "height": 0.5,
       "mass": 11,
@@ -6986,6 +7288,7 @@
         "Hyper Cutter",
         "Intimidate"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Deceiver Pokémon",
       "height": 0.6,
       "mass": 11.5,
@@ -7010,6 +7313,7 @@
         "Sturdy",
         "Rock Head"
       ],
+      "hiddenAbility": "Heavy Metal",
       "category": "Iron Armor Pokémon",
       "height": 0.4,
       "mass": 60,
@@ -7034,6 +7338,7 @@
         "Sturdy",
         "Rock Head"
       ],
+      "hiddenAbility": "Heavy Metal",
       "category": "Iron Armor Pokémon",
       "height": 0.9,
       "mass": 120,
@@ -7058,6 +7363,7 @@
         "Sturdy",
         "Rock Head"
       ],
+      "hiddenAbility": "Heavy Metal",
       "category": "Iron Armor Pokémon",
       "height": 2.1,
       "mass": 360,
@@ -7081,6 +7387,7 @@
       "ability": [
         "Pure Power"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Meditate Pokémon",
       "height": 0.6,
       "mass": 11.2,
@@ -7104,6 +7411,7 @@
       "ability": [
         "Pure Power"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Meditate Pokémon",
       "height": 1.3,
       "mass": 31.5,
@@ -7127,6 +7435,7 @@
         "Static",
         "Lightning Rod"
       ],
+      "hiddenAbility": "Minus",
       "category": "Lightning Pokémon",
       "height": 0.6,
       "mass": 15.2,
@@ -7150,6 +7459,7 @@
         "Static",
         "Lightning Rod"
       ],
+      "hiddenAbility": "Minus",
       "category": "Discharge Pokémon",
       "height": 1.5,
       "mass": 40.2,
@@ -7172,6 +7482,7 @@
       "ability": [
         "Plus"
       ],
+      "hiddenAbility": "Lightning Rod",
       "category": "Cheering Pokémon",
       "height": 0.4,
       "mass": 4.2,
@@ -7194,6 +7505,7 @@
       "ability": [
         "Minus"
       ],
+      "hiddenAbility": "Volt Absorb",
       "category": "Cheering Pokémon",
       "height": 0.4,
       "mass": 4.2,
@@ -7217,6 +7529,7 @@
         "Illuminate",
         "Swarm"
       ],
+      "hiddenAbility": "Prankster",
       "category": "Firefly Pokémon",
       "height": 0.7,
       "mass": 17.7,
@@ -7240,6 +7553,7 @@
         "Oblivious",
         "Tinted Lens"
       ],
+      "hiddenAbility": "Prankster",
       "category": "Firefly Pokémon",
       "height": 0.6,
       "mass": 17.7,
@@ -7264,6 +7578,7 @@
         "Natural Cure",
         "Poison Point"
       ],
+      "hiddenAbility": "Leaf Guard",
       "category": "Thorn Pokémon",
       "height": 0.3,
       "mass": 2,
@@ -7287,6 +7602,7 @@
         "Liquid Ooze",
         "Sticky Hold"
       ],
+      "hiddenAbility": "Glottony",
       "category": "Stomach Pokémon",
       "height": 0.4,
       "mass": 10.3,
@@ -7310,6 +7626,7 @@
         "Liquid Ooze",
         "Sticky Hold"
       ],
+      "hiddenAbility": "Glottony",
       "category": "Poison Bag Pokémon",
       "height": 1.7,
       "mass": 80,
@@ -7333,6 +7650,7 @@
       "ability": [
         "Rough Skin"
       ],
+      "hiddenAbility": "Speed Boost",
       "category": "Savage Pokémon",
       "height": 0.8,
       "mass": 20.8,
@@ -7356,6 +7674,7 @@
       "ability": [
         "Rough Skin"
       ],
+      "hiddenAbility": "Speed Boost",
       "category": "Brutal Pokémon",
       "height": 1.8,
       "mass": 88.8,
@@ -7379,6 +7698,7 @@
         "Water Veil",
         "Oblivious"
       ],
+      "hiddenAbility": "Pressure",
       "category": "Ball Whale Pokémon",
       "height": 2,
       "mass": 130,
@@ -7402,6 +7722,7 @@
         "Water Veil",
         "Oblivious"
       ],
+      "hiddenAbility": "Pressure",
       "category": "Float Whale Pokémon",
       "height": 14.5,
       "mass": 398,
@@ -7426,6 +7747,7 @@
         "Oblivious",
         "Simple"
       ],
+      "hiddenAbility": "Own Tempo",
       "category": "Numb Pokémon",
       "height": 0.7,
       "mass": 24,
@@ -7450,6 +7772,7 @@
         "Magma Armor",
         "Solid Rock"
       ],
+      "hiddenAbility": "Anger Point",
       "category": "Eruption Pokémon",
       "height": 1.9,
       "mass": 220,
@@ -7473,6 +7796,7 @@
         "White Smoke",
         "Drought"
       ],
+      "hiddenAbility": "Shell Armor",
       "category": "Coal Pokémon",
       "height": 0.5,
       "mass": 80.4,
@@ -7496,6 +7820,7 @@
         "Thick Fat",
         "Own Tempo"
       ],
+      "hiddenAbility": "Gluttony",
       "category": "Bounce Pokémon",
       "height": 0.7,
       "mass": 30.6,
@@ -7519,6 +7844,7 @@
         "Thick Fat",
         "Own Tempo"
       ],
+      "hiddenAbility": "Gluttony",
       "category": "Manipulate Pokémon",
       "height": 0.9,
       "mass": 71.5,
@@ -7542,6 +7868,7 @@
         "Own Tempo",
         "Tangled Feet"
       ],
+      "hiddenAbility": "Contrary",
       "category": "Spot Panda Pokémon",
       "height": 1.1,
       "mass": 5,
@@ -7565,6 +7892,7 @@
         "Hyper Cutter",
         "Arena Trap"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Ant Pit Pokémon",
       "height": 0.7,
       "mass": 15,
@@ -7588,6 +7916,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Vibration Pokémon",
       "height": 1.1,
       "mass": 15.3,
@@ -7611,6 +7940,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Mystic Pokémon",
       "height": 2,
       "mass": 82,
@@ -7633,6 +7963,7 @@
       "ability": [
         "Sand Veil"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Cactus Pokémon",
       "height": 0.4,
       "mass": 51.3,
@@ -7656,6 +7987,7 @@
       "ability": [
         "Sand Veil"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Scarecrow Pokémon",
       "height": 1.3,
       "mass": 77.4,
@@ -7679,6 +8011,7 @@
       "ability": [
         "Natural Cure"
       ],
+      "hiddenAbility": "Cloud Nine",
       "category": "Cotton Bird Pokémon",
       "height": 0.4,
       "mass": 1.2,
@@ -7702,6 +8035,7 @@
       "ability": [
         "Natural Cure"
       ],
+      "hiddenAbility": "Cloud Nine",
       "category": "Humming Pokémon",
       "height": 1.1,
       "mass": 20.6,
@@ -7724,6 +8058,7 @@
       "ability": [
         "Immunity"
       ],
+      "hiddenAbility": "Toxic Boost",
       "category": "Cat Ferret Pokémon",
       "height": 1.3,
       "mass": 40.3,
@@ -7746,6 +8081,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Fang Snake Pokémon",
       "height": 2.7,
       "mass": 52.5,
@@ -7769,6 +8105,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Meteorite Pokémon",
       "height": 1,
       "mass": 168,
@@ -7792,6 +8129,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Meteorite Pokémon",
       "height": 1.2,
       "mass": 154,
@@ -7816,6 +8154,7 @@
         "Oblivious",
         "Anticipation"
       ],
+      "hiddenAbility": "Hydration",
       "category": "Whiskers Pokémon",
       "height": 0.4,
       "mass": 1.9,
@@ -7840,6 +8179,7 @@
         "Oblivious",
         "Anticipation"
       ],
+      "hiddenAbility": "Hydration",
       "category": "Whiskers Pokémon",
       "height": 0.9,
       "mass": 23.6,
@@ -7863,6 +8203,7 @@
         "Hyper Cutter",
         "Shell Armor"
       ],
+      "hiddenAbility": "Adaptability",
       "category": "Ruffian Pokémon",
       "height": 0.6,
       "mass": 11.5,
@@ -7887,6 +8228,7 @@
         "Hyper Cutter",
         "Shell Armor"
       ],
+      "hiddenAbility": "Adaptability",
       "category": "Rogue Pokémon",
       "height": 1.1,
       "mass": 32.8,
@@ -7910,6 +8252,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Clay Doll Pokémon",
       "height": 0.5,
       "mass": 21.5,
@@ -7933,6 +8276,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Clay Doll Pokémon",
       "height": 1.5,
       "mass": 108,
@@ -7956,6 +8300,7 @@
       "ability": [
         "Suction Cups"
       ],
+      "hiddenAbility": "Storm Drain",
       "category": "Sea Lily Pokémon",
       "height": 1,
       "mass": 23.8,
@@ -7979,6 +8324,7 @@
       "ability": [
         "Suction Cups"
       ],
+      "hiddenAbility": "Storm Drain",
       "category": "Barnacle Pokémon",
       "height": 1.5,
       "mass": 60.4,
@@ -8002,6 +8348,7 @@
       "ability": [
         "Battle Armor"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Old Shrimp Pokémon",
       "height": 0.7,
       "mass": 12.5,
@@ -8025,6 +8372,7 @@
       "ability": [
         "Battle Armor"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Plate Pokémon",
       "height": 1.5,
       "mass": 68.2,
@@ -8048,6 +8396,7 @@
         "Swift Swim",
         "Oblivious"
       ],
+      "hiddenAbility": "Adaptability",
       "category": "Fish Pokémon",
       "height": 0.6,
       "mass": 7.4,
@@ -8071,6 +8420,7 @@
         "Marvel Scale",
         "Competitive"
       ],
+      "hiddenAbility": "Cute Charm",
       "category": "Tender Pokémon",
       "height": 6.2,
       "mass": 162,
@@ -8093,6 +8443,7 @@
       "ability": [
         "Forecast"
       ],
+      "hiddenAbility": null,
       "category": "Weather Pokémon",
       "height": 0.3,
       "mass": 0.8,
@@ -8115,6 +8466,7 @@
       "ability": [
         "Color Change"
       ],
+      "hiddenAbility": "Protean",
       "category": "Color Swap Pokémon",
       "height": 1,
       "mass": 22,
@@ -8138,6 +8490,7 @@
         "Insomnia",
         "Frisk"
       ],
+      "hiddenAbility": "Cursed Body",
       "category": "Puppet Pokémon",
       "height": 0.6,
       "mass": 2.3,
@@ -8161,6 +8514,7 @@
         "Insomnia",
         "Frisk"
       ],
+      "hiddenAbility": "Cursed Body",
       "category": "Marionette Pokémon",
       "height": 1.1,
       "mass": 12.5,
@@ -8183,6 +8537,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": "Frisk",
       "category": "Requiem Pokémon",
       "height": 0.8,
       "mass": 15,
@@ -8205,6 +8560,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Frisk",
       "category": "Beckon Pokémon",
       "height": 1.6,
       "mass": 30.6,
@@ -8229,6 +8585,7 @@
         "Chlorophyll",
         "Solar Power"
       ],
+      "hiddenAbility": "Harvest",
       "category": "Fruit Pokémon",
       "height": 2,
       "mass": 100,
@@ -8251,6 +8608,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Wind Chime Pokémo",
       "height": 0.6,
       "mass": 1,
@@ -8274,6 +8632,7 @@
         "Pressure",
         "Super Luck"
       ],
+      "hiddenAbility": "Justified",
       "category": "Disaster Pokémon",
       "height": 1.2,
       "mass": 47,
@@ -8296,6 +8655,7 @@
       "ability": [
         "Shadow Tag"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Bright Pokémon",
       "height": 0.6,
       "mass": 14,
@@ -8319,6 +8679,7 @@
         "Inner Focus",
         "Ice Body"
       ],
+      "hiddenAbility": "Moody",
       "category": "Snow Hat Pokémon",
       "height": 0.7,
       "mass": 16.8,
@@ -8342,6 +8703,7 @@
         "Inner Focus",
         "Ice Body"
       ],
+      "hiddenAbility": "Moody",
       "category": "Face Pokémon",
       "height": 1.5,
       "mass": 256.5,
@@ -8366,6 +8728,7 @@
         "Thick Fat",
         "Ice Body"
       ],
+      "hiddenAbility": "Oblivious",
       "category": "Clap Pokémon",
       "height": 0.8,
       "mass": 39.5,
@@ -8390,6 +8753,7 @@
         "Thick Fat",
         "Ice Body"
       ],
+      "hiddenAbility": "Oblivious",
       "category": "Ball Roll Pokémon",
       "height": 1.1,
       "mass": 87.6,
@@ -8414,6 +8778,7 @@
         "Thick Fat",
         "Ice Body"
       ],
+      "hiddenAbility": "Oblivious",
       "category": "Ice Break Pokémon",
       "height": 1.4,
       "mass": 150.6,
@@ -8436,6 +8801,7 @@
       "ability": [
         "Shell Armor"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Bivalve Pokémon",
       "height": 0.4,
       "mass": 52.5,
@@ -8458,6 +8824,7 @@
       "ability": [
         "Swift Swim"
       ],
+      "hiddenAbility": "Water Veil",
       "category": "Deep Sea Pokémon",
       "height": 1.7,
       "mass": 27,
@@ -8480,6 +8847,7 @@
       "ability": [
         "Swift Swim"
       ],
+      "hiddenAbility": "Hydration",
       "category": "South Sea Pokémon",
       "height": 1.8,
       "mass": 22.6,
@@ -8504,6 +8872,7 @@
         "Swift Swim",
         "Rock Head"
       ],
+      "hiddenAbility": "Sturdy",
       "category": "Longevity Pokémon",
       "height": 1,
       "mass": 23.4,
@@ -8526,6 +8895,7 @@
       "ability": [
         "Swift Swim"
       ],
+      "hiddenAbility": "Hydration",
       "category": "Rendezvous Pokémon",
       "height": 0.6,
       "mass": 8.7,
@@ -8548,6 +8918,7 @@
       "ability": [
         "Rock Head"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Rock Head Pokémon",
       "height": 0.6,
       "mass": 42.1,
@@ -8570,6 +8941,7 @@
       "ability": [
         "Rock Head"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Endurance Pokémon",
       "height": 1.1,
       "mass": 110.5,
@@ -8593,6 +8965,7 @@
       "ability": [
         "Intimidate"
       ],
+      "hiddenAbility": "Moxie",
       "category": "Dragon Pokémon",
       "height": 1.5,
       "mass": 102.6,
@@ -8616,6 +8989,7 @@
       "ability": [
         "Clear Body"
       ],
+      "hiddenAbility": "Light Metal",
       "category": "Iron Ball Pokémon",
       "height": 0.6,
       "mass": 95.2,
@@ -8639,6 +9013,7 @@
       "ability": [
         "Clear Body"
       ],
+      "hiddenAbility": "Light Metal",
       "category": "Iron Claw Pokémon",
       "height": 1.2,
       "mass": 202.5,
@@ -8662,6 +9037,7 @@
       "ability": [
         "Clear Body"
       ],
+      "hiddenAbility": "Light Metal",
       "category": "Iron Leg Pokémon",
       "height": 1.6,
       "mass": 550,
@@ -8684,6 +9060,7 @@
       "ability": [
         "Clear Body"
       ],
+      "hiddenAbility": "Sturdy",
       "category": "Rock Peak Pokémon",
       "height": 1.7,
       "mass": 230,
@@ -8706,6 +9083,7 @@
       "ability": [
         "Clear Body"
       ],
+      "hiddenAbility": "Ice Body",
       "category": "Iceberg Pokémon",
       "height": 1.8,
       "mass": 175,
@@ -8728,6 +9106,7 @@
       "ability": [
         "Clear Body"
       ],
+      "hiddenAbility": "Light Metal",
       "category": "Iron Pokémon",
       "height": 1.9,
       "mass": 205,
@@ -8751,6 +9130,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Eon Pokémon",
       "height": 1.4,
       "mass": 40,
@@ -8774,6 +9154,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Eon Pokémon",
       "height": 2,
       "mass": 60,
@@ -8796,6 +9177,7 @@
       "ability": [
         "Drizzle"
       ],
+      "hiddenAbility": null,
       "category": "Sea Basin Pokémon",
       "height": 4.5,
       "mass": 352,
@@ -8818,6 +9200,7 @@
       "ability": [
         "Drought"
       ],
+      "hiddenAbility": null,
       "category": "Continent Pokémon",
       "height": 3.5,
       "mass": 950,
@@ -8841,6 +9224,7 @@
       "ability": [
         "Air Lock"
       ],
+      "hiddenAbility": null,
       "category": "Sky High Pokémon",
       "height": 7,
       "mass": 206.5,
@@ -8864,6 +9248,7 @@
       "ability": [
         "Serene Grace"
       ],
+      "hiddenAbility": null,
       "category": "Wish Pokémon",
       "height": 0.3,
       "mass": 1.1,
@@ -8886,6 +9271,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": null,
       "category": "DNA Pokémon",
       "height": 1.7,
       "mass": 60.8,
@@ -8908,6 +9294,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Shell Armor",
       "category": "Tiny Leaf Pokémon",
       "height": 0.4,
       "mass": 10.2,
@@ -8930,6 +9317,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Shell Armor",
       "category": "Grove Pokémon",
       "height": 1.1,
       "mass": 97,
@@ -8953,6 +9341,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Shell Armor",
       "category": "Continent Pokémon",
       "height": 2.2,
       "mass": 310,
@@ -8975,6 +9364,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Iron Fist",
       "category": "Chimp Pokémon",
       "height": 0.5,
       "mass": 6.2,
@@ -8998,6 +9388,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Iron Fist",
       "category": "Playful Pokémon",
       "height": 0.9,
       "mass": 22,
@@ -9021,6 +9412,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Iron Fist",
       "category": "Flame Pokémon",
       "height": 1.2,
       "mass": 55,
@@ -9043,6 +9435,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Penguin Pokémon",
       "height": 0.4,
       "mass": 5.2,
@@ -9065,6 +9458,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Penguin Pokémon",
       "height": 0.8,
       "mass": 23,
@@ -9088,6 +9482,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Emperor Pokémon",
       "height": 1.7,
       "mass": 84.5,
@@ -9111,6 +9506,7 @@
       "ability": [
         "Keen Eye"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Starling Pokémon",
       "height": 0.3,
       "mass": 2,
@@ -9134,6 +9530,7 @@
       "ability": [
         "Intimidate"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Starling Pokémon",
       "height": 0.6,
       "mass": 15.5,
@@ -9157,6 +9554,7 @@
       "ability": [
         "Intimidate"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Predator Pokémon",
       "height": 1.2,
       "mass": 24.9,
@@ -9180,6 +9578,7 @@
         "Simple",
         "Unaware"
       ],
+      "hiddenAbility": "Moody",
       "category": "Plump Mouse Pokémon",
       "height": 0.5,
       "mass": 20,
@@ -9204,6 +9603,7 @@
         "Simple",
         "Unaware"
       ],
+      "hiddenAbility": "Moody",
       "category": "Beaver Pokémon",
       "height": 1,
       "mass": 31.5,
@@ -9226,6 +9626,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": "Run Away",
       "category": "Cricket Pokémon",
       "height": 0.3,
       "mass": 2.2,
@@ -9248,6 +9649,7 @@
       "ability": [
         "Swarm"
       ],
+      "hiddenAbility": "Technician",
       "category": "Cricket Pokémon",
       "height": 1,
       "mass": 25.5,
@@ -9271,6 +9673,7 @@
         "Rivalry",
         "Intimidate"
       ],
+      "hiddenAbility": "Guts",
       "category": "Flash Pokémon",
       "height": 0.5,
       "mass": 9.5,
@@ -9294,6 +9697,7 @@
         "Rivalry",
         "Intimidate"
       ],
+      "hiddenAbility": "Guts",
       "category": "Spark Pokémon",
       "height": 0.9,
       "mass": 30.5,
@@ -9317,6 +9721,7 @@
         "Rivalry",
         "Intimidate"
       ],
+      "hiddenAbility": "Guts",
       "category": "Gleam Eyes Pokémon",
       "height": 1.4,
       "mass": 42,
@@ -9341,6 +9746,7 @@
         "Natural Cure",
         "Poison Point"
       ],
+      "hiddenAbility": "Leaf Guard",
       "category": "Bud Pokémon",
       "height": 0.2,
       "mass": 1.2,
@@ -9365,6 +9771,7 @@
         "Natural Cure",
         "Poison Point"
       ],
+      "hiddenAbility": "Technician",
       "category": "Bouquet Pokémon",
       "height": 0.9,
       "mass": 14.5,
@@ -9387,6 +9794,7 @@
       "ability": [
         "Mold Breaker"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Head Butt Pokémon",
       "height": 0.9,
       "mass": 31.5,
@@ -9409,6 +9817,7 @@
       "ability": [
         "Mold Breaker"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Head Butt Pokémon",
       "height": 1.6,
       "mass": 102.5,
@@ -9432,6 +9841,7 @@
       "ability": [
         "Sturdy"
       ],
+      "hiddenAbility": "Soundproof",
       "category": "Shield Pokémon",
       "height": 0.5,
       "mass": 57,
@@ -9455,6 +9865,7 @@
       "ability": [
         "Sturdy"
       ],
+      "hiddenAbility": "Soundproof",
       "category": "Shield Pokémon",
       "height": 1.3,
       "mass": 149.5,
@@ -9477,6 +9888,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Bagworm Pokémon",
       "height": 0.2,
       "mass": 3.4,
@@ -9500,6 +9912,7 @@
       "ability": [
         "Anticipation"
       ],
+      "hiddenAbility": "Soundproof",
       "category": "Bagworm Pokémon",
       "height": 0.5,
       "mass": 6.5,
@@ -9523,6 +9936,7 @@
       "ability": [
         "Swarm"
       ],
+      "hiddenAbility": "Tinted Lens",
       "category": "Moth Pokémon",
       "height": 0.9,
       "mass": 23.3,
@@ -9546,6 +9960,7 @@
       "ability": [
         "Honey Gather"
       ],
+      "hiddenAbility": "Hustle",
       "category": "Tiny Bee Pokémon",
       "height": 0.3,
       "mass": 5.5,
@@ -9569,6 +9984,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Beehive Pokémon",
       "height": 1.2,
       "mass": 38.5,
@@ -9592,6 +10008,7 @@
         "Run Away",
         "Pickup"
       ],
+      "hiddenAbility": "Volt Absorb",
       "category": "EleSquirrel Pokémon",
       "height": 0.4,
       "mass": 3.9,
@@ -9614,6 +10031,7 @@
       "ability": [
         "Swift Swim"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Sea Weasel Pokémon",
       "height": 0.7,
       "mass": 29.5,
@@ -9636,6 +10054,7 @@
       "ability": [
         "Swift Swim"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Sea Weasel Pokémon",
       "height": 1.1,
       "mass": 33.5,
@@ -9658,6 +10077,7 @@
       "ability": [
         "Chlorophyll"
       ],
+      "hiddenAbility": "Chlorophyll",
       "category": "Cherry Pokémon",
       "height": 0.4,
       "mass": 3.3,
@@ -9680,6 +10100,7 @@
       "ability": [
         "Flower Gift"
       ],
+      "hiddenAbility": "Flower Gift",
       "category": "Blossom Pokémon",
       "height": 0.5,
       "mass": 9.3,
@@ -9703,6 +10124,7 @@
         "Sticky Hold",
         "Storm Drain"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Sea Slug Pokémon",
       "height": 0.3,
       "mass": 6.3,
@@ -9727,6 +10149,7 @@
         "Sticky Hold",
         "Storm Drain"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Sea Slug Pokémon",
       "height": 0.9,
       "mass": 29.9,
@@ -9750,6 +10173,7 @@
         "Technician",
         "Pickup"
       ],
+      "hiddenAbility": "Skill Link",
       "category": "Long Tail Pokémon",
       "height": 1.2,
       "mass": 20.3,
@@ -9774,6 +10198,7 @@
         "Aftermath",
         "Unburden"
       ],
+      "hiddenAbility": "Flare Boost",
       "category": "Balloon Pokémon",
       "height": 0.4,
       "mass": 1.2,
@@ -9798,6 +10223,7 @@
         "Aftermath",
         "Unburden"
       ],
+      "hiddenAbility": "Flare Boost",
       "category": "Blimp Pokémon",
       "height": 1.2,
       "mass": 15,
@@ -9821,6 +10247,7 @@
         "Run Away",
         "Klutz"
       ],
+      "hiddenAbility": "Limber",
       "category": "Rabbit Pokémon",
       "height": 0.4,
       "mass": 5.5,
@@ -9844,6 +10271,7 @@
         "Cute Charm",
         "Klutz"
       ],
+      "hiddenAbility": "Limber",
       "category": "Rabbit Pokémon",
       "height": 1.2,
       "mass": 33.3,
@@ -9866,6 +10294,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": "Levitate",
       "category": "Magical Pokémon",
       "height": 0.9,
       "mass": 4.4,
@@ -9890,6 +10319,7 @@
         "Insomnia",
         "Super Luck"
       ],
+      "hiddenAbility": "Moxie",
       "category": "Big Boss Pokémon",
       "height": 0.9,
       "mass": 27.3,
@@ -9913,6 +10343,7 @@
         "Limber",
         "Own Tempo"
       ],
+      "hiddenAbility": "Keen Eye",
       "category": "Catty Pokémon",
       "height": 0.5,
       "mass": 3.9,
@@ -9936,6 +10367,7 @@
         "Thich Fat",
         "Own Tempo"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Tiger Cat Pokémon",
       "height": 1,
       "mass": 43.8,
@@ -9958,6 +10390,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Bell Pokémon",
       "height": 0.2,
       "mass": 0.6,
@@ -9982,6 +10415,7 @@
         "Stench",
         "Aftermath"
       ],
+      "hiddenAbility": "Keen Eye",
       "category": "Skunk Pokémon",
       "height": 0.4,
       "mass": 19.2,
@@ -10006,6 +10440,7 @@
         "Stench",
         "Aftermath"
       ],
+      "hiddenAbility": "Keen Eye",
       "category": "Skunk Pokémon",
       "height": 1,
       "mass": 38,
@@ -10030,6 +10465,7 @@
         "Levitate",
         "Heatproof"
       ],
+      "hiddenAbility": "Heavy Metal",
       "category": "Bronze Pokémon",
       "height": 0.5,
       "mass": 60.5,
@@ -10054,6 +10490,7 @@
         "Levitate",
         "Heatproof"
       ],
+      "hiddenAbility": "Heavy Metal",
       "category": "Bronze Bell Pokémon",
       "height": 1.3,
       "mass": 187,
@@ -10077,6 +10514,7 @@
         "Sturdy",
         "Rock Head"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Bonsai Pokémon",
       "height": 0.5,
       "mass": 15,
@@ -10101,6 +10539,7 @@
         "Soundproof",
         "Filter"
       ],
+      "hiddenAbility": "Technician",
       "category": "Mime Pokémon",
       "height": 0.6,
       "mass": 13,
@@ -10124,6 +10563,7 @@
         "Natural Cure",
         "Serene Grace"
       ],
+      "hiddenAbility": "Friend Guard",
       "category": "Playhouse Pokémon",
       "height": 0.6,
       "mass": 24.4,
@@ -10148,6 +10588,7 @@
         "Keen Eye",
         "Tangled Feet"
       ],
+      "hiddenAbility": "Big Pecks",
       "category": "Music Note Pokémon",
       "height": 0.5,
       "mass": 1.9,
@@ -10171,6 +10612,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Forbidden Pokémon",
       "height": 1,
       "mass": 108,
@@ -10194,6 +10636,7 @@
       "ability": [
         "Sand Veil"
       ],
+      "hiddenAbility": "Rough Skin",
       "category": "Land Shark Pokémon",
       "height": 0.7,
       "mass": 20.5,
@@ -10217,6 +10660,7 @@
       "ability": [
         "Sand Veil"
       ],
+      "hiddenAbility": "Rough Skin",
       "category": "Cave Pokémon",
       "height": 1.4,
       "mass": 56,
@@ -10240,6 +10684,7 @@
       "ability": [
         "Sand Veil"
       ],
+      "hiddenAbility": "Rough Skin",
       "category": "Mach Pokémon",
       "height": 1.9,
       "mass": 95,
@@ -10263,6 +10708,7 @@
         "Pickup",
         "Thick Fat"
       ],
+      "hiddenAbility": "Gluttony",
       "category": "Big Eater Pokémon",
       "height": 0.6,
       "mass": 105,
@@ -10286,6 +10732,7 @@
         "Steadfast",
         "Inner Focus"
       ],
+      "hiddenAbility": "Prankster",
       "category": "Emanation Pokémon",
       "height": 0.7,
       "mass": 20.2,
@@ -10310,6 +10757,7 @@
         "Steadfast",
         "Inner Focus"
       ],
+      "hiddenAbility": "Justified",
       "category": "Aura Pokémon",
       "height": 1.2,
       "mass": 54,
@@ -10332,6 +10780,7 @@
       "ability": [
         "Sand Stream"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Hippo Pokémon",
       "height": 0.8,
       "mass": 49.5,
@@ -10354,6 +10803,7 @@
       "ability": [
         "Sand Stream"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Heavyweight Pokémon",
       "height": 2,
       "mass": 300,
@@ -10378,6 +10828,7 @@
         "Battle Armor",
         "Sniper"
       ],
+      "hiddenAbility": "Keen Eye",
       "category": "Scorpion Pokémon",
       "height": 0.8,
       "mass": 12,
@@ -10402,6 +10853,7 @@
         "Battle Armor",
         "Sniper"
       ],
+      "hiddenAbility": "Keen Eye",
       "category": "Ogre Scorpion Pokémon",
       "height": 1.3,
       "mass": 61.5,
@@ -10426,6 +10878,7 @@
         "Anticipation",
         "Dry Skin"
       ],
+      "hiddenAbility": "Poison Touch",
       "category": "Toxic Mouth Pokémon",
       "height": 0.7,
       "mass": 23,
@@ -10450,6 +10903,7 @@
         "Anticipation",
         "Dry Skin"
       ],
+      "hiddenAbility": "Poison Touch",
       "category": "Toxic Mouth Pokémon",
       "height": 1.3,
       "mass": 44.4,
@@ -10472,6 +10926,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Bug Catcher Pokémon",
       "height": 1.4,
       "mass": 27,
@@ -10495,6 +10950,7 @@
         "Swift Swim",
         "Storm Drain"
       ],
+      "hiddenAbility": "Water Veil",
       "category": "Wing Fish Pokémon",
       "height": 0.4,
       "mass": 7,
@@ -10518,6 +10974,7 @@
         "Swift Swim",
         "Storm Drain"
       ],
+      "hiddenAbility": "Water Veil",
       "category": "Neon Pokémon",
       "height": 1.2,
       "mass": 24,
@@ -10542,6 +10999,7 @@
         "Swift Swim",
         "Water Absorb"
       ],
+      "hiddenAbility": "Water Veil",
       "category": "Kite Pokémon",
       "height": 1,
       "mass": 65,
@@ -10565,6 +11023,7 @@
       "ability": [
         "Snow Warning"
       ],
+      "hiddenAbility": "Soundproof",
       "category": "Frost Tree Pokémon",
       "height": 1,
       "mass": 50.5,
@@ -10588,6 +11047,7 @@
       "ability": [
         "Snow Warning"
       ],
+      "hiddenAbility": "Soundproof",
       "category": "Frost Tree Pokémon",
       "height": 2.2,
       "mass": 135.5,
@@ -10611,6 +11071,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Pickpocket",
       "category": "Sharp Claw Pokémon",
       "height": 1.1,
       "mass": 34,
@@ -10635,6 +11096,7 @@
         "Magnet Pull",
         "Sturdy"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Magnet Area Pokémon",
       "height": 1.2,
       "mass": 180,
@@ -10658,6 +11120,7 @@
         "Own Tempo",
         "Oblivious"
       ],
+      "hiddenAbility": "Cloud Nine",
       "category": "Licking Pokémon",
       "height": 1.7,
       "mass": 140,
@@ -10682,6 +11145,7 @@
         "Lightning Rod",
         "Solid Rock"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Drill Pokémon",
       "height": 2.4,
       "mass": 282.8,
@@ -10705,6 +11169,7 @@
         "Chlorophyll",
         "Leaf Guard"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Vine Pokémon",
       "height": 2,
       "mass": 128.6,
@@ -10727,6 +11192,7 @@
       "ability": [
         "Motor Drive"
       ],
+      "hiddenAbility": "Vital Spirit",
       "category": "Thunderbolt Pokémon",
       "height": 1.8,
       "mass": 138.6,
@@ -10749,6 +11215,7 @@
       "ability": [
         "Flame Body"
       ],
+      "hiddenAbility": "Vital Spirit",
       "category": "Blast Pokémon",
       "height": 1.6,
       "mass": 68,
@@ -10773,6 +11240,7 @@
         "Hustle",
         "Serene Grace"
       ],
+      "hiddenAbility": "Super Luck",
       "category": "Jubilee Pokémon",
       "height": 1.5,
       "mass": 38,
@@ -10797,6 +11265,7 @@
         "Speed Boost",
         "Tinted Lens"
       ],
+      "hiddenAbility": "Frisk",
       "category": "Ogre Darner Pokémon",
       "height": 1.9,
       "mass": 51.5,
@@ -10819,6 +11288,7 @@
       "ability": [
         "Leaf Guard"
       ],
+      "hiddenAbility": "Chrlorophyll",
       "category": "Verdant Pokémon",
       "height": 1,
       "mass": 25.5,
@@ -10841,6 +11311,7 @@
       "ability": [
         "Snow Cloak"
       ],
+      "hiddenAbility": "Ice Body",
       "category": "Fresh Snow Pokémon",
       "height": 0.8,
       "mass": 25.9,
@@ -10865,6 +11336,7 @@
         "Hyper Cutter",
         "Sand Veil"
       ],
+      "hiddenAbility": "Poison Heal",
       "category": "Fang Scorpion Pokémon",
       "height": 2,
       "mass": 42.5,
@@ -10889,6 +11361,7 @@
         "Oblivious",
         "Snow Cloak"
       ],
+      "hiddenAbility": "Thick Fat",
       "category": "Twin Tusk Pokémon",
       "height": 2.5,
       "mass": 291,
@@ -10912,6 +11385,7 @@
         "Adaptability",
         "Download"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Virtual Pokémon",
       "height": 0.9,
       "mass": 34,
@@ -10936,6 +11410,7 @@
         "Steadfast",
         "Sharpness"
       ],
+      "hiddenAbility": "Justified",
       "category": "Blade Pokémon",
       "height": 1.6,
       "mass": 52,
@@ -10960,6 +11435,7 @@
         "Sturdy",
         "Magnet Pull"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Compass Pokémon",
       "height": 1.4,
       "mass": 340,
@@ -10982,6 +11458,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Frisk",
       "category": "Gripper Pokémon",
       "height": 2.2,
       "mass": 106.6,
@@ -11005,6 +11482,7 @@
       "ability": [
         "Snow Cloak"
       ],
+      "hiddenAbility": "Cursed Body",
       "category": "Snow Land Pokémon",
       "height": 1.3,
       "mass": 26.6,
@@ -11028,6 +11506,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Plasma Pokémon",
       "height": 0.3,
       "mass": 0.3,
@@ -11050,6 +11529,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Knowledge Pokémon",
       "height": 0.3,
       "mass": 0.3,
@@ -11072,6 +11552,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Emotion Pokémon",
       "height": 0.3,
       "mass": 0.3,
@@ -11094,6 +11575,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Willpower Pokémon",
       "height": 0.3,
       "mass": 0.3,
@@ -11117,6 +11599,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Temporal Pokémon",
       "height": 5.4,
       "mass": 683,
@@ -11140,6 +11623,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Spatial Pokémon",
       "height": 4.2,
       "mass": 336,
@@ -11163,6 +11647,7 @@
       "ability": [
         "Flash Fire"
       ],
+      "hiddenAbility": "Flame Body",
       "category": "Lava Dome Pokémon",
       "height": 1.7,
       "mass": 430,
@@ -11185,6 +11670,7 @@
       "ability": [
         "Slow Start"
       ],
+      "hiddenAbility": null,
       "category": "Colossal Pokémon",
       "height": 3.7,
       "mass": 420,
@@ -11208,6 +11694,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Renegade Pokémon",
       "height": 6.9,
       "mass": 650,
@@ -11230,6 +11717,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Lunar Pokémon",
       "height": 1.5,
       "mass": 85.6,
@@ -11252,6 +11740,7 @@
       "ability": [
         "Hydration"
       ],
+      "hiddenAbility": null,
       "category": "Sea Drifter Pokémon",
       "height": 0.4,
       "mass": 3.1,
@@ -11274,6 +11763,7 @@
       "ability": [
         "Hydration"
       ],
+      "hiddenAbility": null,
       "category": "Seafaring Pokémon",
       "height": 0.3,
       "mass": 1.4,
@@ -11296,6 +11786,7 @@
       "ability": [
         "Bad Dreams"
       ],
+      "hiddenAbility": null,
       "category": "Pitch-Black Pokémon",
       "height": 1.5,
       "mass": 50.5,
@@ -11318,6 +11809,7 @@
       "ability": [
         "Natural Cure"
       ],
+      "hiddenAbility": null,
       "category": "Gratitude Pokémon",
       "height": 0.4,
       "mass": 5.2,
@@ -11340,6 +11832,7 @@
       "ability": [
         "Multitype"
       ],
+      "hiddenAbility": null,
       "category": "Alpha Pokémon",
       "height": 3.2,
       "mass": 320,
@@ -11363,6 +11856,7 @@
       "ability": [
         "Victory Star"
       ],
+      "hiddenAbility": null,
       "category": "Victory Pokémon",
       "height": 0.4,
       "mass": 4,
@@ -11385,6 +11879,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Contrary",
       "category": "Grass Snake Pokémon",
       "height": 0.6,
       "mass": 8.1,
@@ -11407,6 +11902,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Contrary",
       "category": "Grass Snake Pokémon",
       "height": 0.8,
       "mass": 16,
@@ -11429,6 +11925,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Contrary",
       "category": "Regal Pokémon",
       "height": 3.3,
       "mass": 63,
@@ -11451,6 +11948,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Thick Fat",
       "category": "Fire Pig Pokémon",
       "height": 0.5,
       "mass": 9.9,
@@ -11474,6 +11972,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Thick Fat",
       "category": "Fire Pig Pokémon",
       "height": 1,
       "mass": 55.5,
@@ -11497,6 +11996,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Mega Fire Pig Pokémon",
       "height": 1.6,
       "mass": 150,
@@ -11519,6 +12019,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Shell Armor",
       "category": "Sea Otter Pokémon",
       "height": 0.5,
       "mass": 5.9,
@@ -11541,6 +12042,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Shell Armor",
       "category": "Discipline Pokémon",
       "height": 0.8,
       "mass": 24.5,
@@ -11563,6 +12065,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Shell Armor",
       "category": "Formidable Pokémon",
       "height": 1.5,
       "mass": 94.6,
@@ -11586,6 +12089,7 @@
         "Run Away",
         "Keen Eye"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Scout Pokémon",
       "height": 0.5,
       "mass": 11.6,
@@ -11609,6 +12113,7 @@
         "Illuminate",
         "Keen Eye"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Lookout Pokémon",
       "height": 1.1,
       "mass": 27,
@@ -11632,6 +12137,7 @@
         "Vital Spirit",
         "Pickup"
       ],
+      "hiddenAbility": "Run Away",
       "category": "Puppy Pokémon",
       "height": 0.4,
       "mass": 4.1,
@@ -11655,6 +12161,7 @@
         "Intimidate",
         "Sand Rush"
       ],
+      "hiddenAbility": "Scrappy",
       "category": "Loyal Dog Pokémon",
       "height": 0.9,
       "mass": 14.7,
@@ -11678,6 +12185,7 @@
         "Intimidate",
         "Sand Rush"
       ],
+      "hiddenAbility": "Scrappy",
       "category": "Big-Hearted Pokémon",
       "height": 1.2,
       "mass": 61,
@@ -11701,6 +12209,7 @@
         "Limber",
         "Unburden"
       ],
+      "hiddenAbility": "Prankster",
       "category": "Devious Pokémon",
       "height": 0.4,
       "mass": 10.1,
@@ -11724,6 +12233,7 @@
         "Limber",
         "Unburden"
       ],
+      "hiddenAbility": "Prankster",
       "category": "Cruel Pokémon",
       "height": 1.1,
       "mass": 37.5,
@@ -11746,6 +12256,7 @@
       "ability": [
         "Gluttony"
       ],
+      "hiddenAbility": "Overgrow",
       "category": "Grass Monkey Pokémon",
       "height": 0.6,
       "mass": 10.5,
@@ -11768,6 +12279,7 @@
       "ability": [
         "Gluttony"
       ],
+      "hiddenAbility": "Overgrow",
       "category": "Thorn Monkey Pokémon",
       "height": 1.1,
       "mass": 30.5,
@@ -11790,6 +12302,7 @@
       "ability": [
         "Gluttony"
       ],
+      "hiddenAbility": "Blaze",
       "category": "High Temp Pokémon",
       "height": 0.6,
       "mass": 11,
@@ -11812,6 +12325,7 @@
       "ability": [
         "Gluttony"
       ],
+      "hiddenAbility": "Blaze",
       "category": "Ember Pokémon",
       "height": 1,
       "mass": 28,
@@ -11834,6 +12348,7 @@
       "ability": [
         "Gluttony"
       ],
+      "hiddenAbility": "Torrent",
       "category": "Spray Pokémon",
       "height": 0.6,
       "mass": 13.5,
@@ -11856,6 +12371,7 @@
       "ability": [
         "Gluttony"
       ],
+      "hiddenAbility": "Torrent",
       "category": "Geyser Pokémon",
       "height": 1,
       "mass": 29,
@@ -11879,6 +12395,7 @@
         "Forewarn",
         "Synchronize"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Dream Eater Pokémon",
       "height": 0.6,
       "mass": 23.3,
@@ -11902,6 +12419,7 @@
         "Forewarn",
         "Synchronize"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Drowsing Pokémon",
       "height": 1.1,
       "mass": 60.5,
@@ -11926,6 +12444,7 @@
         "Big Pecks",
         "Super Luck"
       ],
+      "hiddenAbility": "Rivalry",
       "category": "Tiny Pigeon Pokémon",
       "height": 0.3,
       "mass": 2.1,
@@ -11950,6 +12469,7 @@
         "Big Pecks",
         "Super Luck"
       ],
+      "hiddenAbility": "Rivalry",
       "category": "Wild Pigeon Pokémon",
       "height": 0.6,
       "mass": 15,
@@ -11974,6 +12494,7 @@
         "Big Pecks",
         "Super Luck"
       ],
+      "hiddenAbility": "Rivalry",
       "category": "Proud Pokémon",
       "height": 1.2,
       "mass": 29,
@@ -11997,6 +12518,7 @@
         "Lightning Rod",
         "Motor Drive"
       ],
+      "hiddenAbility": "Sap Sipper",
       "category": "Electrified Pokémon",
       "height": 0.8,
       "mass": 29.8,
@@ -12020,6 +12542,7 @@
         "Lightning Rod",
         "Motor Drive"
       ],
+      "hiddenAbility": "Sap Sipper",
       "category": "Thunderbolt Pokémon",
       "height": 1.6,
       "mass": 79.5,
@@ -12043,6 +12566,7 @@
         "Sturdy",
         "Weak Armor"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Mantle Pokémon",
       "height": 0.4,
       "mass": 18,
@@ -12066,6 +12590,7 @@
         "Sturdy",
         "Weak Armor"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Ore Pokémon",
       "height": 0.9,
       "mass": 102,
@@ -12089,6 +12614,7 @@
         "Sturdy",
         "Sand Stream"
       ],
+      "hiddenAbility": "Sand Force",
       "category": "Compressed Pokémon",
       "height": 1.7,
       "mass": 260,
@@ -12113,6 +12639,7 @@
         "Unaware",
         "Klutz"
       ],
+      "hiddenAbility": "Simple",
       "category": "Bat Pokémon",
       "height": 0.4,
       "mass": 2.1,
@@ -12137,6 +12664,7 @@
         "Unaware",
         "Klutz"
       ],
+      "hiddenAbility": "Simple",
       "category": "Courting Pokémon",
       "height": 0.9,
       "mass": 10.5,
@@ -12160,6 +12688,7 @@
         "Sand Rush",
         "Sand Force"
       ],
+      "hiddenAbility": "Mold Breaker",
       "category": "Mole Pokémon",
       "height": 0.3,
       "mass": 8.5,
@@ -12184,6 +12713,7 @@
         "Sand Rush",
         "Sand Force"
       ],
+      "hiddenAbility": "Mold Breaker",
       "category": "Subterrene Pokémon",
       "height": 0.7,
       "mass": 40.4,
@@ -12207,6 +12737,7 @@
         "Healer",
         "Regenerator"
       ],
+      "hiddenAbility": "Klutz",
       "category": "Hearing Pokémon",
       "height": 1.1,
       "mass": 31,
@@ -12230,6 +12761,7 @@
         "Guts",
         "Sheer Force"
       ],
+      "hiddenAbility": "Iron Fist",
       "category": "Muscular Pokémon",
       "height": 0.6,
       "mass": 12.5,
@@ -12253,6 +12785,7 @@
         "Guts",
         "Sheer Force"
       ],
+      "hiddenAbility": "Iron Fist",
       "category": "Muscular Pokémon",
       "height": 1.2,
       "mass": 40,
@@ -12276,6 +12809,7 @@
         "Guts",
         "Sheer Force"
       ],
+      "hiddenAbility": "Iron Fist",
       "category": "Muscular Pokémon",
       "height": 1.4,
       "mass": 87,
@@ -12299,6 +12833,7 @@
         "Swift Swim",
         "Hydration"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Tadpole Pokémon",
       "height": 0.5,
       "mass": 4.5,
@@ -12323,6 +12858,7 @@
         "Swift Swim",
         "Hydration"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Vibration Pokémon",
       "height": 0.8,
       "mass": 17,
@@ -12347,6 +12883,7 @@
         "Swift Swim",
         "Poison Touch"
       ],
+      "hiddenAbility": "Water Absorb",
       "category": "Vibration Pokémon",
       "height": 1.5,
       "mass": 62,
@@ -12370,6 +12907,7 @@
         "Guts",
         "Inner Focus"
       ],
+      "hiddenAbility": "Mold Breaker",
       "category": "Judo Pokémon",
       "height": 1.3,
       "mass": 55.5,
@@ -12393,6 +12931,7 @@
         "Guts",
         "Inner Focus"
       ],
+      "hiddenAbility": "Mold Breaker",
       "category": "Karate Pokémon",
       "height": 1.4,
       "mass": 51,
@@ -12417,6 +12956,7 @@
         "Swarm",
         "Chlorophyll"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Sewing Pokémon",
       "height": 0.3,
       "mass": 2.5,
@@ -12441,6 +12981,7 @@
         "Leaf Guard",
         "Chlorophyll"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Leaf-Wrapped Pokémon",
       "height": 0.5,
       "mass": 7.3,
@@ -12465,6 +13006,7 @@
         "Swarm",
         "Chlorophyll"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Nurturing Pokémon",
       "height": 1.2,
       "mass": 20.5,
@@ -12489,6 +13031,7 @@
         "Poison Point",
         "Swarm"
       ],
+      "hiddenAbility": "Speed Boost",
       "category": "Centipede Pokémon",
       "height": 0.4,
       "mass": 5.3,
@@ -12513,6 +13056,7 @@
         "Poison Point",
         "Swarm"
       ],
+      "hiddenAbility": "Speed Boost",
       "category": "Curlipede Pokémon",
       "height": 1.2,
       "mass": 58.5,
@@ -12537,6 +13081,7 @@
         "Poison Point",
         "Swarm"
       ],
+      "hiddenAbility": "Speed Boost",
       "category": "Megapede Pokémon",
       "height": 2.5,
       "mass": 200.5,
@@ -12561,6 +13106,7 @@
         "Prankster",
         "Infiltrator"
       ],
+      "hiddenAbility": "Chlorophyll",
       "category": "Cotton Puff Pokémon",
       "height": 0.3,
       "mass": 0.6,
@@ -12585,6 +13131,7 @@
         "Prankster",
         "Infiltrator"
       ],
+      "hiddenAbility": "Chlorophyll",
       "category": "Windveiled Pokémon",
       "height": 0.7,
       "mass": 6.6,
@@ -12608,6 +13155,7 @@
         "Chlorophyll",
         "Own Tempo"
       ],
+      "hiddenAbility": "Leaf Guard",
       "category": "Bulb Pokémon",
       "height": 0.5,
       "mass": 6.6,
@@ -12631,6 +13179,7 @@
         "Chlorophyll",
         "Own Tempo"
       ],
+      "hiddenAbility": "Leaf Guard",
       "category": "Flowering Pokémon",
       "height": 1.1,
       "mass": 16.3,
@@ -12654,6 +13203,7 @@
         "Reckless",
         "Adaptability"
       ],
+      "hiddenAbility": "Mold Breaker",
       "category": "Hostile Pokémon",
       "height": 1,
       "mass": 18,
@@ -12678,6 +13228,7 @@
         "Intimidate",
         "Moxie"
       ],
+      "hiddenAbility": "Anger Point",
       "category": "Desert Croc Pokémon",
       "height": 0.7,
       "mass": 15.2,
@@ -12702,6 +13253,7 @@
         "Intimidate",
         "Moxie"
       ],
+      "hiddenAbility": "Anger Point",
       "category": "Desert Croc Pokémon",
       "height": 1,
       "mass": 33.4,
@@ -12726,6 +13278,7 @@
         "Intimidate",
         "Moxie"
       ],
+      "hiddenAbility": "Anger Point",
       "category": "Intimidation Pokémon",
       "height": 1.5,
       "mass": 96.3,
@@ -12748,6 +13301,7 @@
       "ability": [
         "Hustle"
       ],
+      "hiddenAbility": "Inner Focus",
       "category": "Zen Charm Pokémon",
       "height": 0.6,
       "mass": 37.5,
@@ -12770,6 +13324,7 @@
       "ability": [
         "Sheer Force"
       ],
+      "hiddenAbility": "Zen Mode",
       "category": "Blazing Pokémon",
       "height": 1.3,
       "mass": 92.9,
@@ -12793,6 +13348,7 @@
         "Water Absorb",
         "Chlorophyll"
       ],
+      "hiddenAbility": "Storm Drain",
       "category": "Cactus Pokémon",
       "height": 1,
       "mass": 28,
@@ -12817,6 +13373,7 @@
         "Sturdy",
         "Shell Armor"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Rock Inn Pokémon",
       "height": 0.3,
       "mass": 14.5,
@@ -12841,6 +13398,7 @@
         "Sturdy",
         "Shell Armor"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Stone Home Pokémon",
       "height": 1.4,
       "mass": 200,
@@ -12865,6 +13423,7 @@
         "Shed Skin",
         "Moxie"
       ],
+      "hiddenAbility": "Intimidate",
       "category": "Shedding Pokémon",
       "height": 0.6,
       "mass": 11.8,
@@ -12889,6 +13448,7 @@
         "Shed Skin",
         "Moxie"
       ],
+      "hiddenAbility": "Intimidate",
       "category": "Hoodlum Pokémon",
       "height": 1.1,
       "mass": 30,
@@ -12913,6 +13473,7 @@
         "Wonder Skin",
         "Magic Guard"
       ],
+      "hiddenAbility": "Tinted Lens",
       "category": "Avianoid Pokémon",
       "height": 1.4,
       "mass": 14,
@@ -12935,6 +13496,7 @@
       "ability": [
         "Mummy"
       ],
+      "hiddenAbility": null,
       "category": "Spirit Pokémon",
       "height": 0.5,
       "mass": 1.5,
@@ -12957,6 +13519,7 @@
       "ability": [
         "Mummy"
       ],
+      "hiddenAbility": null,
       "category": "Coffin Pokémon",
       "height": 1.7,
       "mass": 76.5,
@@ -12981,6 +13544,7 @@
         "Solid Rock",
         "Sturdy"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Prototurtle Pokémon",
       "height": 0.7,
       "mass": 16.5,
@@ -13005,6 +13569,7 @@
         "Solid Rock",
         "Sturdy"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Prototurtle Pokémon",
       "height": 1.2,
       "mass": 81,
@@ -13028,6 +13593,7 @@
       "ability": [
         "Defeatist"
       ],
+      "hiddenAbility": null,
       "category": "First Bird Pokémon",
       "height": 0.5,
       "mass": 9.5,
@@ -13051,6 +13617,7 @@
       "ability": [
         "Defeatist"
       ],
+      "hiddenAbility": null,
       "category": "First Bird Pokémon",
       "height": 1.4,
       "mass": 32,
@@ -13074,6 +13641,7 @@
         "Stench",
         "Sticky Hold"
       ],
+      "hiddenAbility": "Aftermath",
       "category": "Trash Bag Pokémon",
       "height": 0.6,
       "mass": 31,
@@ -13097,6 +13665,7 @@
         "Stench",
         "Weak Armor"
       ],
+      "hiddenAbility": "Aftermath",
       "category": "Trash Heap Pokémon",
       "height": 1.9,
       "mass": 107.3,
@@ -13119,6 +13688,7 @@
       "ability": [
         "Illusion"
       ],
+      "hiddenAbility": null,
       "category": "Tricky Fox Pokémon",
       "height": 0.7,
       "mass": 12.5,
@@ -13141,6 +13711,7 @@
       "ability": [
         "Illusion"
       ],
+      "hiddenAbility": null,
       "category": "Illusion Fox Pokémon",
       "height": 1.6,
       "mass": 81.1,
@@ -13164,6 +13735,7 @@
         "Cute Charm",
         "Technician"
       ],
+      "hiddenAbility": "Skill Link",
       "category": "Chinchilla Pokémon",
       "height": 0.4,
       "mass": 5.8,
@@ -13187,6 +13759,7 @@
         "Cute Charm",
         "Technician"
       ],
+      "hiddenAbility": "Skill Link",
       "category": "Scarf Pokémon",
       "height": 0.5,
       "mass": 7.5,
@@ -13210,6 +13783,7 @@
         "Frisk",
         "Competitive"
       ],
+      "hiddenAbility": "Shadow Tag",
       "category": "Fixation Pokémon",
       "height": 0.4,
       "mass": 5.8,
@@ -13233,6 +13807,7 @@
         "Frisk",
         "Competitive"
       ],
+      "hiddenAbility": "Shadow Tag",
       "category": "Manipulate Pokémon",
       "height": 0.7,
       "mass": 18,
@@ -13256,6 +13831,7 @@
         "Frisk",
         "Competitive"
       ],
+      "hiddenAbility": "Shadow Tag",
       "category": "Astral Body Pokémon",
       "height": 1.5,
       "mass": 44,
@@ -13279,6 +13855,7 @@
         "Overcoat",
         "Magic Guard"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Cell Pokémon",
       "height": 0.3,
       "mass": 1,
@@ -13302,6 +13879,7 @@
         "Overcoat",
         "Magic Guard"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Mitosis Pokémon",
       "height": 0.6,
       "mass": 8,
@@ -13325,6 +13903,7 @@
         "Overcoat",
         "Magic Guard"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Multiplying Pokémon",
       "height": 1,
       "mass": 20.1,
@@ -13349,6 +13928,7 @@
         "Keen Eye",
         "Big Pecks"
       ],
+      "hiddenAbility": "Hydration",
       "category": "Water Bird Pokémon",
       "height": 0.5,
       "mass": 5.5,
@@ -13373,6 +13953,7 @@
         "Keen Eye",
         "Big Pecks"
       ],
+      "hiddenAbility": "Hydration",
       "category": "White Bird Pokémon",
       "height": 1.3,
       "mass": 24.2,
@@ -13396,6 +13977,7 @@
         "Ice Body",
         "Snow Cloak"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Fresh Snow Pokémon",
       "height": 0.4,
       "mass": 5.7,
@@ -13419,6 +14001,7 @@
         "Ice Body",
         "Snow Cloak"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Icy Snow Pokémon",
       "height": 1.1,
       "mass": 41,
@@ -13442,6 +14025,7 @@
         "Ice Body",
         "Snow Warning"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Snowstorm Pokémon",
       "height": 1.3,
       "mass": 57.5,
@@ -13466,6 +14050,7 @@
         "Chlorophyll",
         "Sap Sipper"
       ],
+      "hiddenAbility": "Serene Grace",
       "category": "Season Pokémon",
       "height": 0.6,
       "mass": 19.5,
@@ -13490,6 +14075,7 @@
         "Chlorophyll",
         "Sap Sipper"
       ],
+      "hiddenAbility": "Serene Grace",
       "category": "Season Pokémon",
       "height": 1.9,
       "mass": 92.5,
@@ -13513,6 +14099,7 @@
       "ability": [
         "Static"
       ],
+      "hiddenAbility": "Motor Grive",
       "category": "Sky Squirrel Pokémon",
       "height": 0.4,
       "mass": 5,
@@ -13536,6 +14123,7 @@
         "Swarm",
         "Shed Skin"
       ],
+      "hiddenAbility": "No Guard",
       "category": "Clamping Pokémon",
       "height": 0.5,
       "mass": 5.9,
@@ -13560,6 +14148,7 @@
         "Swarm",
         "Shell Armor"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Cavalry Pokémon",
       "height": 1,
       "mass": 33,
@@ -13583,6 +14172,7 @@
       "ability": [
         "Effect Spore"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Mushroom Pokémon",
       "height": 0.2,
       "mass": 1,
@@ -13606,6 +14196,7 @@
       "ability": [
         "Effect Spore"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Mushroom Pokémon",
       "height": 0.6,
       "mass": 10.5,
@@ -13630,6 +14221,7 @@
         "Water Absorb",
         "Cursed Body"
       ],
+      "hiddenAbility": "Damp",
       "category": "Floating Pokémon",
       "height": 1.2,
       "mass": 33,
@@ -13654,6 +14246,7 @@
         "Water Absorb",
         "Cursed Body"
       ],
+      "hiddenAbility": "Damp",
       "category": "Floating Pokémon",
       "height": 2.2,
       "mass": 135,
@@ -13677,6 +14270,7 @@
         "Healer",
         "Hydration"
       ],
+      "hiddenAbility": "Regenerator",
       "category": "Caring Pokémon",
       "height": 1.2,
       "mass": 31.6,
@@ -13701,6 +14295,7 @@
         "Compoundeyes",
         "Unnerve"
       ],
+      "hiddenAbility": "Swarm",
       "category": "Attaching Pokémon",
       "height": 0.1,
       "mass": 0.6,
@@ -13725,6 +14320,7 @@
         "Compoundeyes",
         "Unnerve"
       ],
+      "hiddenAbility": "Swarm",
       "category": "EleSpider Pokémon",
       "height": 0.8,
       "mass": 14.3,
@@ -13748,6 +14344,7 @@
       "ability": [
         "Iron Barbs"
       ],
+      "hiddenAbility": null,
       "category": "Thorn Seed Pokémon",
       "height": 0.6,
       "mass": 18.8,
@@ -13771,6 +14368,7 @@
       "ability": [
         "Iron Barbs"
       ],
+      "hiddenAbility": "Anticipation",
       "category": "Thorn Pod Pokémon",
       "height": 1,
       "mass": 110,
@@ -13794,6 +14392,7 @@
         "Plus",
         "Minus"
       ],
+      "hiddenAbility": "Clear Body",
       "category": "Gear Pokémon",
       "height": 0.3,
       "mass": 21,
@@ -13817,6 +14416,7 @@
         "Plus",
         "Minus"
       ],
+      "hiddenAbility": "Clear Body",
       "category": "Gear Pokémon",
       "height": 0.6,
       "mass": 51,
@@ -13840,6 +14440,7 @@
         "Plus",
         "Minus"
       ],
+      "hiddenAbility": "Clear Body",
       "category": "Gear Pokémon",
       "height": 0.6,
       "mass": 81,
@@ -13862,6 +14463,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "EleFish Pokémon",
       "height": 0.2,
       "mass": 0.3,
@@ -13884,6 +14486,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "EleFish Pokémon",
       "height": 1.2,
       "mass": 22,
@@ -13906,6 +14509,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "EleFish Pokémon",
       "height": 2.1,
       "mass": 80.5,
@@ -13929,6 +14533,7 @@
         "Telepathy",
         "Synchronize"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Cerebral Pokémon",
       "height": 0.5,
       "mass": 9,
@@ -13952,6 +14557,7 @@
         "Telepathy",
         "Synchronize"
       ],
+      "hiddenAbility": "Analytic",
       "category": "Cerebral Pokémon",
       "height": 1,
       "mass": 34.5,
@@ -13976,6 +14582,7 @@
         "Flash Fire",
         "Flame Body"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Candle Pokémon",
       "height": 0.3,
       "mass": 3.1,
@@ -14000,6 +14607,7 @@
         "Flash Fire",
         "Flame Body"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Lamp Pokémon",
       "height": 0.6,
       "mass": 13,
@@ -14024,6 +14632,7 @@
         "Flash Fire",
         "Flame Body"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Luring Pokémon",
       "height": 1,
       "mass": 34.3,
@@ -14047,6 +14656,7 @@
         "Rivalry",
         "Mold Breaker"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Tusk Pokémon",
       "height": 0.6,
       "mass": 18,
@@ -14070,6 +14680,7 @@
         "Rivalry",
         "Mold Breaker"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Axe Jaw Pokémon",
       "height": 1,
       "mass": 36,
@@ -14093,6 +14704,7 @@
         "Rivalry",
         "Mold Breaker"
       ],
+      "hiddenAbility": "Unnerve",
       "category": "Axe Jaw Pokémon",
       "height": 1.8,
       "mass": 105.5,
@@ -14116,6 +14728,7 @@
         "Snow Cloak",
         "Slush Rush"
       ],
+      "hiddenAbility": "Rattled",
       "category": "Chill Pokémon",
       "height": 0.5,
       "mass": 8.5,
@@ -14139,6 +14752,7 @@
         "Snow Cloak",
         "Slush Rush"
       ],
+      "hiddenAbility": "Swift Swim",
       "category": "Freezing Pokémon",
       "height": 2.6,
       "mass": 260,
@@ -14161,6 +14775,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Crystallizing Pokémon",
       "height": 1.1,
       "mass": 148,
@@ -14184,6 +14799,7 @@
         "Hydration",
         "Shell Armor"
       ],
+      "hiddenAbility": "Overcoat",
       "category": "Snail Pokémon",
       "height": 0.4,
       "mass": 7.7,
@@ -14207,6 +14823,7 @@
         "Hydration",
         "Sticky Hold"
       ],
+      "hiddenAbility": "Unbuden",
       "category": "Shell Out Pokémon",
       "height": 0.8,
       "mass": 25.3,
@@ -14231,6 +14848,7 @@
         "Static",
         "Limber"
       ],
+      "hiddenAbility": "Sanveil",
       "category": "Trap Pokémon",
       "height": 0.7,
       "mass": 11,
@@ -14254,6 +14872,7 @@
         "Inner Focus",
         "Regenerator"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Martial Arts Pokémon",
       "height": 0.9,
       "mass": 20,
@@ -14277,6 +14896,7 @@
         "Inner Focus",
         "Regenerator"
       ],
+      "hiddenAbility": "Reckless",
       "category": "Martial Arts Pokémon",
       "height": 1.4,
       "mass": 35.5,
@@ -14300,6 +14920,7 @@
         "Rough Skin",
         "Sheer Force"
       ],
+      "hiddenAbility": "Mold Breaker",
       "category": "Cave Pokémon",
       "height": 1.6,
       "mass": 139,
@@ -14324,6 +14945,7 @@
         "Iron Fist",
         "Klutz"
       ],
+      "hiddenAbility": "No Guard",
       "category": "Automaton Pokémon",
       "height": 1,
       "mass": 92,
@@ -14348,6 +14970,7 @@
         "Iron Fist",
         "Klutz"
       ],
+      "hiddenAbility": "No Guard",
       "category": "Automaton Pokémon",
       "height": 2.8,
       "mass": 330,
@@ -14372,6 +14995,7 @@
         "Defiant",
         "Inner Focus"
       ],
+      "hiddenAbility": "Pressure",
       "category": "Sharp Blade Pokémon",
       "height": 0.5,
       "mass": 10.2,
@@ -14396,6 +15020,7 @@
         "Defiant",
         "Inner Focus"
       ],
+      "hiddenAbility": "Pressure",
       "category": "Sword Blade Pokémon",
       "height": 1.6,
       "mass": 70,
@@ -14419,6 +15044,7 @@
         "Reckless",
         "Sap Sipper"
       ],
+      "hiddenAbility": "Soundproof",
       "category": "Bash Buffalo Pokémon",
       "height": 1.6,
       "mass": 94.6,
@@ -14443,6 +15069,7 @@
         "Keen Eye",
         "Sheer Force"
       ],
+      "hiddenAbility": "Hustle",
       "category": "Eaglet Pokémon",
       "height": 0.5,
       "mass": 10.5,
@@ -14467,6 +15094,7 @@
         "Keen Eye",
         "Sheer Force"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Valiant Pokémon",
       "height": 1.5,
       "mass": 41,
@@ -14491,6 +15119,7 @@
         "Big Pecks",
         "Overcoat"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Diapered Pokémon",
       "height": 0.5,
       "mass": 9,
@@ -14515,6 +15144,7 @@
         "Big Pecks",
         "Overcoat"
       ],
+      "hiddenAbility": "Weak Armor",
       "category": "Bone Vulture Pokémon",
       "height": 1.2,
       "mass": 39.5,
@@ -14538,6 +15168,7 @@
         "Gluttony",
         "Flash Fire"
       ],
+      "hiddenAbility": "White Smoke",
       "category": "Anteater Pokémon",
       "height": 1.4,
       "mass": 58,
@@ -14562,6 +15193,7 @@
         "Swarm",
         "Hustle"
       ],
+      "hiddenAbility": "Truant",
       "category": "Iron Ant Pokémon",
       "height": 0.3,
       "mass": 33,
@@ -14585,6 +15217,7 @@
       "ability": [
         "Hustle"
       ],
+      "hiddenAbility": null,
       "category": "Irate Pokémon",
       "height": 0.8,
       "mass": 17.3,
@@ -14608,6 +15241,7 @@
       "ability": [
         "Hustle"
       ],
+      "hiddenAbility": null,
       "category": "Hostile Pokémon",
       "height": 1.4,
       "mass": 50,
@@ -14631,6 +15265,7 @@
       "ability": [
         "Levitate"
       ],
+      "hiddenAbility": null,
       "category": "Brutal Pokémon",
       "height": 1.8,
       "mass": 160,
@@ -14654,6 +15289,7 @@
       "ability": [
         "Flame Body"
       ],
+      "hiddenAbility": "Swarm",
       "category": "Torch Pokémon",
       "height": 1.1,
       "mass": 28.8,
@@ -14677,6 +15313,7 @@
       "ability": [
         "Flame Body"
       ],
+      "hiddenAbility": "Swarm",
       "category": "Sun Pokémon",
       "height": 1.6,
       "mass": 46,
@@ -14700,6 +15337,7 @@
       "ability": [
         "Justified"
       ],
+      "hiddenAbility": null,
       "category": "Iron Will Pokémon",
       "height": 2.1,
       "mass": 250,
@@ -14723,6 +15361,7 @@
       "ability": [
         "Justified"
       ],
+      "hiddenAbility": null,
       "category": "Cavern Pokémon",
       "height": 1.9,
       "mass": 260,
@@ -14746,6 +15385,7 @@
       "ability": [
         "Justified"
       ],
+      "hiddenAbility": null,
       "category": "Grassland Pokémon",
       "height": 2,
       "mass": 200,
@@ -14768,6 +15408,7 @@
       "ability": [
         "Prankster"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Cyclone Pokémon",
       "height": 1.4,
       "mass": 63,
@@ -14791,6 +15432,7 @@
       "ability": [
         "Prankster"
       ],
+      "hiddenAbility": "Defiant",
       "category": "Bolt Strike Pokémon",
       "height": 3,
       "mass": 61,
@@ -14814,6 +15456,7 @@
       "ability": [
         "Turboblaze"
       ],
+      "hiddenAbility": null,
       "category": "Vast White Pokémon",
       "height": 3.2,
       "mass": 330,
@@ -14837,6 +15480,7 @@
       "ability": [
         "Teravolt"
       ],
+      "hiddenAbility": null,
       "category": "Deep Black Pokémon",
       "height": 2.9,
       "mass": 345,
@@ -14860,6 +15504,7 @@
       "ability": [
         "Sand Force"
       ],
+      "hiddenAbility": "Sheer Force",
       "category": "Abundance Pokémon",
       "height": 1.3,
       "mass": 68,
@@ -14883,6 +15528,7 @@
       "ability": [
         "Pressure"
       ],
+      "hiddenAbility": null,
       "category": "Boundary Pokémon",
       "height": 3,
       "mass": 325,
@@ -14906,6 +15552,7 @@
       "ability": [
         "Justified"
       ],
+      "hiddenAbility": null,
       "category": "Colt Pokémon",
       "height": 1.4,
       "mass": 48.5,
@@ -14929,6 +15576,7 @@
       "ability": [
         "Serene Grace"
       ],
+      "hiddenAbility": null,
       "category": "Melody Pokémon",
       "height": 0.6,
       "mass": 6.5,
@@ -14952,6 +15600,7 @@
       "ability": [
         "Download"
       ],
+      "hiddenAbility": null,
       "category": "Paleozoic Pokémon",
       "height": 1.5,
       "mass": 82.5,
@@ -14974,6 +15623,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Bulletproof",
       "category": "Spiny Nut Pokémon",
       "height": 0.4,
       "mass": 9,
@@ -14996,6 +15646,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Bulletproof",
       "category": "Spiny Armor Pokémon",
       "height": 0.7,
       "mass": 29,
@@ -15019,6 +15670,7 @@
       "ability": [
         "Overgrow"
       ],
+      "hiddenAbility": "Bulletproof",
       "category": "Spiny Armor Pokémon",
       "height": 1.6,
       "mass": 90,
@@ -15041,6 +15693,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Magician",
       "category": "Fox Pokémon",
       "height": 0.4,
       "mass": 9.4,
@@ -15063,6 +15716,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Magician",
       "category": "Fox Pokémon",
       "height": 1,
       "mass": 14.5,
@@ -15086,6 +15740,7 @@
       "ability": [
         "Blaze"
       ],
+      "hiddenAbility": "Magician",
       "category": "Fox Pokémon",
       "height": 1.5,
       "mass": 39,
@@ -15108,6 +15763,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Protean",
       "category": "Bubble Frog Pokémon",
       "height": 0.3,
       "mass": 7,
@@ -15130,6 +15786,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Protean",
       "category": "Bubble Frog Pokémon",
       "height": 0.6,
       "mass": 10.9,
@@ -15153,6 +15810,7 @@
       "ability": [
         "Torrent"
       ],
+      "hiddenAbility": "Protean",
       "category": "Ninja Pokémon",
       "height": 1.5,
       "mass": 40,
@@ -15176,6 +15834,7 @@
         "Pickup",
         "Cheek Pouch"
       ],
+      "hiddenAbility": "Huge Power",
       "category": "Digging Pokémon",
       "height": 0.4,
       "mass": 5,
@@ -15200,6 +15859,7 @@
         "Pickup",
         "Cheek Pouch"
       ],
+      "hiddenAbility": "Huge Power",
       "category": "Digging Pokémon",
       "height": 1,
       "mass": 42.4,
@@ -15223,6 +15883,7 @@
       "ability": [
         "Big Pecks"
       ],
+      "hiddenAbility": "Gale Wings",
       "category": "Tiny Robin Pokémon",
       "height": 0.3,
       "mass": 1.7,
@@ -15246,6 +15907,7 @@
       "ability": [
         "Flame Body"
       ],
+      "hiddenAbility": "Gale Wings",
       "category": "Ember Pokémon",
       "height": 0.7,
       "mass": 16,
@@ -15269,6 +15931,7 @@
       "ability": [
         "Flame Body"
       ],
+      "hiddenAbility": "Gale Wings",
       "category": "Scorching Pokémon",
       "height": 1.2,
       "mass": 24.5,
@@ -15292,6 +15955,7 @@
         "Shield Dust",
         "Compoundeyes"
       ],
+      "hiddenAbility": "Friend Guard",
       "category": "Scatterdust Pokémon",
       "height": 0.3,
       "mass": 2.5,
@@ -15314,6 +15978,7 @@
       "ability": [
         "Shed Skin"
       ],
+      "hiddenAbility": "Friend Guard",
       "category": "Scatterdust Pokémon",
       "height": 0.3,
       "mass": 8.4,
@@ -15338,6 +16003,7 @@
         "Shield Dust",
         "Compoundeyes"
       ],
+      "hiddenAbility": "Friend Guard",
       "category": "Scale Pokémon",
       "height": 1.2,
       "mass": 17,
@@ -15362,6 +16028,7 @@
         "Rivalry",
         "Unnerve"
       ],
+      "hiddenAbility": "Moxie",
       "category": "Lion Cub Pokémon",
       "height": 0.6,
       "mass": 13.5,
@@ -15386,6 +16053,7 @@
         "Rivalry",
         "Unnerve"
       ],
+      "hiddenAbility": "Moxie",
       "category": "Royal Pokémon",
       "height": 1.5,
       "mass": 81.5,
@@ -15408,6 +16076,7 @@
       "ability": [
         "Flower Veil"
       ],
+      "hiddenAbility": "Symbiosis",
       "category": "Single Bloom Pokémon",
       "height": 0.1,
       "mass": 0.1,
@@ -15430,6 +16099,7 @@
       "ability": [
         "Flower Veil"
       ],
+      "hiddenAbility": "Symbiosis",
       "category": "Single Bloom Pokémon",
       "height": 0.2,
       "mass": 0.9,
@@ -15452,6 +16122,7 @@
       "ability": [
         "Flower Veil"
       ],
+      "hiddenAbility": "Symbiosis",
       "category": "Garden Pokémon",
       "height": 1.1,
       "mass": 10,
@@ -15474,6 +16145,7 @@
       "ability": [
         "Sap Sipper"
       ],
+      "hiddenAbility": "Grass Pelt",
       "category": "Mount Pokémon",
       "height": 0.9,
       "mass": 31,
@@ -15496,6 +16168,7 @@
       "ability": [
         "Sap Sipper"
       ],
+      "hiddenAbility": "Grass Pelt",
       "category": "Mount Pokémon",
       "height": 1.7,
       "mass": 91,
@@ -15519,6 +16192,7 @@
         "Iron Fist",
         "Mold Breaker"
       ],
+      "hiddenAbility": "Scrappy",
       "category": "Playful Pokémon",
       "height": 0.6,
       "mass": 8,
@@ -15543,6 +16217,7 @@
         "Iron Fist",
         "Mold Breaker"
       ],
+      "hiddenAbility": "Scrappy",
       "category": "Daunting Pokémon",
       "height": 2.1,
       "mass": 136,
@@ -15565,6 +16240,7 @@
       "ability": [
         "Fur Coat"
       ],
+      "hiddenAbility": "Fur Coat",
       "category": "Poodle Pokémon",
       "height": 1.2,
       "mass": 28,
@@ -15588,6 +16264,7 @@
         "Keen Eye",
         "Infiltrator"
       ],
+      "hiddenAbility": "Own Tempo",
       "category": "Restraint Pokémon",
       "height": 0.3,
       "mass": 3.5,
@@ -15611,6 +16288,7 @@
         "Keen Eye",
         "Infiltrator"
       ],
+      "hiddenAbility": "Prankster",
       "category": "Constraint Pokémon",
       "height": 0.6,
       "mass": 8.5,
@@ -15634,6 +16312,7 @@
       "ability": [
         "No Guard"
       ],
+      "hiddenAbility": null,
       "category": "Sword Pokémon",
       "height": 0.8,
       "mass": 2,
@@ -15657,6 +16336,7 @@
       "ability": [
         "No Guard"
       ],
+      "hiddenAbility": null,
       "category": "Sword Pokémon",
       "height": 0.8,
       "mass": 4.5,
@@ -15680,6 +16360,7 @@
       "ability": [
         "Stance Change"
       ],
+      "hiddenAbility": null,
       "category": "Royal Sword Pokémon",
       "height": 1.7,
       "mass": 53,
@@ -15702,6 +16383,7 @@
       "ability": [
         "Healer"
       ],
+      "hiddenAbility": "Aroma Veil",
       "category": "Perfume Pokémon",
       "height": 0.2,
       "mass": 0.5,
@@ -15724,6 +16406,7 @@
       "ability": [
         "Healer"
       ],
+      "hiddenAbility": "Aroma Veil",
       "category": "Fragrance Pokémon",
       "height": 0.8,
       "mass": 15.5,
@@ -15746,6 +16429,7 @@
       "ability": [
         "Sweet Veil"
       ],
+      "hiddenAbility": "Unburden",
       "category": "Cotton Candy Pokémon",
       "height": 0.4,
       "mass": 3.5,
@@ -15768,6 +16452,7 @@
       "ability": [
         "Sweet Veil"
       ],
+      "hiddenAbility": "Unburden",
       "category": "Meringue Pokémon",
       "height": 0.8,
       "mass": 5,
@@ -15792,6 +16477,7 @@
         "Contrary",
         "Suction Cups"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Revolving Pokémon",
       "height": 0.4,
       "mass": 3.5,
@@ -15816,6 +16502,7 @@
         "Contrary",
         "Suction Cups"
       ],
+      "hiddenAbility": "Infiltrator",
       "category": "Overturning Pokémon",
       "height": 1.5,
       "mass": 47,
@@ -15840,6 +16527,7 @@
         "Tough Claws",
         "Sniper"
       ],
+      "hiddenAbility": "Pickpocket",
       "category": "Two-Handed Pokémon",
       "height": 0.5,
       "mass": 31,
@@ -15864,6 +16552,7 @@
         "Tough Claws",
         "Sniper"
       ],
+      "hiddenAbility": "Pickpocket",
       "category": "Collective Pokémon",
       "height": 1.3,
       "mass": 96,
@@ -15888,6 +16577,7 @@
         "Poison Point",
         "Poison Touch"
       ],
+      "hiddenAbility": "Adaptability",
       "category": "Mock Kelp Pokémon",
       "height": 0.5,
       "mass": 7.3,
@@ -15912,6 +16602,7 @@
         "Poison Point",
         "Poison Touch"
       ],
+      "hiddenAbility": "Adaptability",
       "category": "Mock Kelp Pokémon",
       "height": 1.8,
       "mass": 81.5,
@@ -15934,6 +16625,7 @@
       "ability": [
         "Mega Launcher"
       ],
+      "hiddenAbility": null,
       "category": "Water Gun Pokémon",
       "height": 0.5,
       "mass": 8.3,
@@ -15956,6 +16648,7 @@
       "ability": [
         "Mega Launcher"
       ],
+      "hiddenAbility": null,
       "category": "Howitzer Pokémon",
       "height": 1.3,
       "mass": 35.3,
@@ -15980,6 +16673,7 @@
         "Dry Skin",
         "Sand Veil"
       ],
+      "hiddenAbility": "Solar Power",
       "category": "Generator Pokémon",
       "height": 0.5,
       "mass": 6,
@@ -16004,6 +16698,7 @@
         "Dry Skin",
         "Sand Veil"
       ],
+      "hiddenAbility": "Solar Power",
       "category": "Generator Pokémon",
       "height": 1,
       "mass": 21,
@@ -16027,6 +16722,7 @@
       "ability": [
         "Strong Jaw"
       ],
+      "hiddenAbility": "Sturdy",
       "category": "Royal Heir Pokémon",
       "height": 0.8,
       "mass": 26,
@@ -16050,6 +16746,7 @@
       "ability": [
         "Strong Jaw"
       ],
+      "hiddenAbility": "Rock Head",
       "category": "Despot Pokémon",
       "height": 2.5,
       "mass": 270,
@@ -16073,6 +16770,7 @@
       "ability": [
         "Refrigerate"
       ],
+      "hiddenAbility": "Snow Warning",
       "category": "Tundra Pokémon",
       "height": 1.3,
       "mass": 25.2,
@@ -16096,6 +16794,7 @@
       "ability": [
         "Refrigerate"
       ],
+      "hiddenAbility": "Snow Warning",
       "category": "Tundra Pokémon",
       "height": 2.7,
       "mass": 225,
@@ -16118,6 +16817,7 @@
       "ability": [
         "Cute Charm"
       ],
+      "hiddenAbility": "Pixilate",
       "category": "Intertwining Pokémon",
       "height": 1,
       "mass": 23.5,
@@ -16142,6 +16842,7 @@
         "Limber",
         "Unburden"
       ],
+      "hiddenAbility": "Mold Breaker",
       "category": "Wrestling Pokémon",
       "height": 0.8,
       "mass": 21.5,
@@ -16166,6 +16867,7 @@
         "Cheek Pouch",
         "Pickup"
       ],
+      "hiddenAbility": "Plus",
       "category": "Antenna Pokémon",
       "height": 0.2,
       "mass": 2.2,
@@ -16189,6 +16891,7 @@
       "ability": [
         "Clear Body"
       ],
+      "hiddenAbility": "Sturdy",
       "category": "Jewel Pokémon",
       "height": 0.3,
       "mass": 5.7,
@@ -16212,6 +16915,7 @@
         "Sap Sipper",
         "Hydration"
       ],
+      "hiddenAbility": "Gooey",
       "category": "Soft Tissue Pokémon",
       "height": 0.3,
       "mass": 2.8,
@@ -16235,6 +16939,7 @@
         "Sap Sipper",
         "Hydration"
       ],
+      "hiddenAbility": "Gooey",
       "category": "Soft Tissue Pokémon",
       "height": 0.8,
       "mass": 17.5,
@@ -16258,6 +16963,7 @@
         "Sap Sipper",
         "Hydration"
       ],
+      "hiddenAbility": "Gooey",
       "category": "Dragon Pokémon",
       "height": 2,
       "mass": 150.5,
@@ -16281,6 +16987,7 @@
       "ability": [
         "Prankster"
       ],
+      "hiddenAbility": "Magician",
       "category": "Key Ring Pokémon",
       "height": 0.2,
       "mass": 3,
@@ -16305,6 +17012,7 @@
         "Natural Cure",
         "Frisk"
       ],
+      "hiddenAbility": "Harvest",
       "category": "Stump Pokémon",
       "height": 0.4,
       "mass": 7,
@@ -16329,6 +17037,7 @@
         "Natural Cure",
         "Frisk"
       ],
+      "hiddenAbility": "Harvest",
       "category": "Elder Tree Pokémon",
       "height": 1.5,
       "mass": 71,
@@ -16353,6 +17062,7 @@
         "Pickup",
         "Frisk"
       ],
+      "hiddenAbility": "Insomnia",
       "category": "Pumpkin Pokémon",
       "height": 0.4,
       "mass": 5,
@@ -16377,6 +17087,7 @@
         "Pickup",
         "Frisk"
       ],
+      "hiddenAbility": "Insomnia",
       "category": "Pumpkin Pokémon",
       "height": 0.9,
       "mass": 12.5,
@@ -16400,6 +17111,7 @@
         "Own Tempo",
         "Ice Body"
       ],
+      "hiddenAbility": "Sturdy",
       "category": "Ice Chunk Pokémon",
       "height": 1,
       "mass": 99.5,
@@ -16423,6 +17135,7 @@
         "Own Tempo",
         "Ice Body"
       ],
+      "hiddenAbility": "Sturdy",
       "category": "Iceberg Pokémon",
       "height": 2,
       "mass": 505,
@@ -16447,6 +17160,7 @@
         "Frisk",
         "Infiltrator"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Sound Wave Pokémon",
       "height": 0.5,
       "mass": 8,
@@ -16471,6 +17185,7 @@
         "Frisk",
         "Infiltrator"
       ],
+      "hiddenAbility": "Telepathy",
       "category": "Sound Wave Pokémon",
       "height": 1.5,
       "mass": 85,
@@ -16493,6 +17208,7 @@
       "ability": [
         "Fairy Aura"
       ],
+      "hiddenAbility": null,
       "category": "Life Pokémon",
       "height": 3,
       "mass": 215,
@@ -16516,6 +17232,7 @@
       "ability": [
         "Dark Aura"
       ],
+      "hiddenAbility": null,
       "category": "Destruction Pokémon",
       "height": 5.8,
       "mass": 203,
@@ -16539,6 +17256,7 @@
       "ability": [
         "Aura Break"
       ],
+      "hiddenAbility": null,
       "category": "Order Pokémon",
       "height": 4.5,
       "mass": 610,
@@ -16562,6 +17280,7 @@
       "ability": [
         "Clear Body"
       ],
+      "hiddenAbility": null,
       "category": "Jewel Pokémon",
       "height": 0.7,
       "mass": 8.8,
@@ -16585,6 +17304,7 @@
       "ability": [
         "Magician"
       ],
+      "hiddenAbility": null,
       "category": "Mischief Pokémon",
       "height": 0.5,
       "mass": 9,
@@ -16608,6 +17328,7 @@
       "ability": [
         "Water Absorb"
       ],
+      "hiddenAbility": null,
       "category": "Steam Pokémon",
       "height": 6.5,
       "mass": 490,
